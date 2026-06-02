@@ -1,0 +1,126 @@
+Structured Annotation Protocol (SAP) — High-Speed Rail Sentiment Extraction (HSR-SE)
+Version 1.0 | Derived from Parasuraman et al. (1988) SERVQUAL model
+
+============================================================
+INPUT
+============================================================
+B — batch of 30–50 HSR reviews in spreadsheet format
+    Columns: train_name | review_id | review_text | language
+
+============================================================
+OUTPUT
+============================================================
+Structured JSON records with per-attribute sentiment labels.
+
+============================================================
+ATTRIBUTE DEFINITIONS
+============================================================
+A = {Tangibility, Reliability, Responsiveness, Assurance, Empathy, Comfort}
+
+1. Tangibility    — Physical appearance of facilities, equipment, and personnel.
+                    HSR: seat quality, cleanliness, signage, onboard facilities, WiFi.
+                    Keywords: clean, dirty, seat, bathroom, toilet, modern, signs, luggage
+
+2. Reliability    — Ability to perform promised service dependably and accurately.
+                    HSR: punctuality, cancellations, schedule adherence, booking accuracy.
+                    Keywords: delay, late, cancelled, punctual, on time, schedule, missed
+
+3. Responsiveness — Willingness to help customers and provide prompt service.
+                    HSR: staff response to problems, refund handling, complaint resolution.
+                    Keywords: refund, compensation, help, assistance, problem, waiting, queue
+
+4. Assurance      — Knowledge, courtesy, and ability to inspire trust and confidence.
+                    HSR: staff professionalism, language accessibility, safety information.
+                    Keywords: english, staff, helpful, friendly, polite, language, speak
+
+5. Empathy        — Caring, individualised attention the firm provides its customers.
+                    HSR (extended): personal care (children, family, wheelchair users)
+                    AND price accessibility / fare value perception.
+                    Keywords: children, family, expensive, cheap, price, prices, cost, affordable
+
+6. Comfort        — Ride quality and cabin environment. [Domain-specific extension]
+                    HSR: seat ergonomics, vibration, noise, temperature, crowding, smell.
+                    Keywords: smooth, quiet, hot, cold, noise, noisy, crowded, comfortable
+
+============================================================
+ANNOTATION PROCEDURE
+============================================================
+For each review R in batch B:
+  For each attribute Ai in A:
+
+    Step 1 — Detect signals
+      IF review text contains explicit or implicit signals for attribute Ai:
+        a. Extract verbatim evidence Ei:
+           - Maximum 20 characters OR 1 complete sentence
+           - Must be taken directly from original review text
+        b. Assign sentiment label Si:
+           Si ∈ {Positive, Negative, Neutral, Mixed, Not_mentioned}
+        c. Assign integer score Scorei:
+           +2 = Strongly Positive  (clear, enthusiastic praise)
+           +1 = Mildly Positive    (moderate satisfaction)
+            0 = Neutral            (factual statement, no sentiment)
+           -1 = Mildly Negative    (mild dissatisfaction)
+           -2 = Strongly Negative  (clear complaint or strong dissatisfaction)
+        d. Assign confidence score (0–10 scale)
+      ELSE:
+        Si = 'Not_mentioned', Ei = '', Scorei = 0, Confidence = 10
+
+    Step 2 — Mixed sentiment
+      IF review contains BOTH positive and negative signals for same attribute:
+        Si = 'Mixed', Scorei = 0
+
+============================================================
+DISAMBIGUATION RULES
+============================================================
+'Train was late / delayed / cancelled'
+    → Reliability  (NOT Responsiveness — unless staff response is also mentioned)
+
+'No update given / staff did not help when train was cancelled'
+    → Responsiveness  (staff reaction to service failure)
+
+'Staff were professional / helpful / knowledgeable'
+    → Assurance  (NOT Empathy — unless personal care is mentioned)
+
+'Staff helped wheelchair user / staff noticed child crying'
+    → Empathy  (personal, individualised care)
+
+'Modern train design / clean carriage'
+    → Tangibility  (NOT Comfort — unless ride quality mentioned)
+
+'Soft seat / cool air conditioning / quiet ride'
+    → Comfort  (NOT Tangibility — physical sensation of ride)
+
+'Expensive / good value for money / overpriced'
+    → Empathy  (price accessibility dimension, domain-specific extension)
+
+============================================================
+OUTPUT FORMAT
+============================================================
+Return a JSON array. One object per review:
+
+{
+  "train_name": "KTX",
+  "review_id": 1,
+  "language": "en",
+  "review_text": "[original text]",
+  "Tangibility":    {"sentiment": "Positive", "score_int": 2, "evidence": "clearly marked in English", "confidence": 10},
+  "Reliability":    {"sentiment": "Positive", "score_int": 2, "evidence": "trains were on time",        "confidence": 10},
+  "Responsiveness": {"sentiment": "Positive", "score_int": 2, "evidence": "information desk helpful",   "confidence": 10},
+  "Assurance":      {"sentiment": "Not_mentioned", "score_int": 0, "evidence": "", "confidence": 10},
+  "Empathy":        {"sentiment": "Not_mentioned", "score_int": 0, "evidence": "", "confidence": 10},
+  "Comfort":        {"sentiment": "Positive", "score_int": 2, "evidence": "trains were clean",          "confidence": 10}
+}
+
+============================================================
+IMPLEMENTATION NOTES
+============================================================
+- Annotation was performed via the Gemini 3 Flash web interface
+  in batches of 30–50 reviews.
+- API-based annotation was used for protocol piloting and testing only.
+- Confidence scores were collected but not used in subsequent analyses.
+- Non-English reviews were annotated in their original language.
+  Translation (deep-translator) was applied only for subsequent
+  keyword analysis (TF-IDF / log-odds ratio), NOT for sentiment scoring.
+- The first author verified approximately 100 randomly sampled reviews
+  by direct comparison with original texts; no systematic
+  misclassification was identified.
