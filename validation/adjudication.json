@@ -1,0 +1,674 @@
+[
+ {
+  "item": 4,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 14,
+  "attr": "Reliability",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "遲遲未見"
+ },
+ {
+  "item": 19,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 35,
+  "attr": "Tangibility",
+  "label": "Mixed",
+  "score": 0,
+  "evidence": "pulito"
+ },
+ {
+  "item": 43,
+  "attr": "Tangibility",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 43,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 46,
+  "attr": "Assurance",
+  "label": "Positive",
+  "score": 1,
+  "evidence": "아주 친절하고"
+ },
+ {
+  "item": 60,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 61,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 65,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 65,
+  "attr": "Assurance",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 68,
+  "attr": "Assurance",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "cela ne choque pas du tout le personnel"
+ },
+ {
+  "item": 68,
+  "attr": "Empathy",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 72,
+  "attr": "Comfort",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 77,
+  "attr": "Empathy",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 82,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 82,
+  "attr": "Comfort",
+  "label": "Positive",
+  "score": 1,
+  "evidence": "Le carrozze sono spaziose"
+ },
+ {
+  "item": 85,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 86,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 88,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 90,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 90,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 94,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 103,
+  "attr": "Tangibility",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 106,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 108,
+  "attr": "Responsiveness",
+  "label": "Negative",
+  "score": -2,
+  "evidence": "very unprofessional"
+ },
+ {
+  "item": 110,
+  "attr": "Assurance",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 112,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 112,
+  "attr": "Assurance",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 113,
+  "attr": "Empathy",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 115,
+  "attr": "Tangibility",
+  "label": "Positive",
+  "score": 1,
+  "evidence": "snack gluten free"
+ },
+ {
+  "item": 119,
+  "attr": "Assurance",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 136,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 156,
+  "attr": "Reliability",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "el tren llegaba tarde media hora"
+ },
+ {
+  "item": 156,
+  "attr": "Responsiveness",
+  "label": "Mixed",
+  "score": 0,
+  "evidence": "FALTA PERSONAL"
+ },
+ {
+  "item": 160,
+  "attr": "Tangibility",
+  "label": "Positive",
+  "score": 1,
+  "evidence": "muy amigable el sistema en estaciones"
+ },
+ {
+  "item": 165,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 170,
+  "attr": "Empathy",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "只能訂別車的全票"
+ },
+ {
+  "item": 175,
+  "attr": "Comfort",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 183,
+  "attr": "Empathy",
+  "label": "Neutral",
+  "score": 0,
+  "evidence": "la prenotazione è gratuita"
+ },
+ {
+  "item": 183,
+  "attr": "Comfort",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 184,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 188,
+  "attr": "Tangibility",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 188,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 199,
+  "attr": "Tangibility",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 206,
+  "attr": "Comfort",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 220,
+  "attr": "Empathy",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 223,
+  "attr": "Tangibility",
+  "label": "Positive",
+  "score": 1,
+  "evidence": "un petit plateau repas"
+ },
+ {
+  "item": 223,
+  "attr": "Assurance",
+  "label": "Positive",
+  "score": 1,
+  "evidence": "claires et régulières"
+ },
+ {
+  "item": 223,
+  "attr": "Empathy",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 225,
+  "attr": "Tangibility",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "unfassbar marode Bundesbahn, Technik"
+ },
+ {
+  "item": 226,
+  "attr": "Comfort",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "we could not sit together"
+ },
+ {
+  "item": 228,
+  "attr": "Tangibility",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 228,
+  "attr": "Comfort",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 232,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 245,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 248,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 253,
+  "attr": "Comfort",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 254,
+  "attr": "Comfort",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 266,
+  "attr": "Empathy",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 268,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 268,
+  "attr": "Assurance",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "un avvertimento da parte di TGV"
+ },
+ {
+  "item": 272,
+  "attr": "Comfort",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "su questo treno non funziona!"
+ },
+ {
+  "item": 296,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 300,
+  "attr": "Empathy",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 306,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 307,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 309,
+  "attr": "Tangibility",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 311,
+  "attr": "Responsiveness",
+  "label": "Positive",
+  "score": 1,
+  "evidence": "서비스는 빠르고 친절하고"
+ },
+ {
+  "item": 311,
+  "attr": "Assurance",
+  "label": "Mixed",
+  "score": 0,
+  "evidence": "약간의 혼란 이지만"
+ },
+ {
+  "item": 312,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 318,
+  "attr": "Tangibility",
+  "label": "Positive",
+  "score": 1,
+  "evidence": "お菓子付き"
+ },
+ {
+  "item": 318,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 325,
+  "attr": "Empathy",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 328,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 332,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 334,
+  "attr": "Assurance",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 346,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 346,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 350,
+  "attr": "Assurance",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "le train était à l'heure selon eux"
+ },
+ {
+  "item": 351,
+  "attr": "Assurance",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 356,
+  "attr": "Empathy",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 358,
+  "attr": "Responsiveness",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "acto seguido se va"
+ },
+ {
+  "item": 363,
+  "attr": "Tangibility",
+  "label": "Positive",
+  "score": 1,
+  "evidence": "無料のバターワッフル"
+ },
+ {
+  "item": 367,
+  "attr": "Tangibility",
+  "label": "Positive",
+  "score": 1,
+  "evidence": "무료 생수도 제공"
+ },
+ {
+  "item": 367,
+  "attr": "Responsiveness",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 368,
+  "attr": "Comfort",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 372,
+  "attr": "Assurance",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 378,
+  "attr": "Empathy",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 385,
+  "attr": "Assurance",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "noi non possiamo comunicare"
+ },
+ {
+  "item": 387,
+  "attr": "Tangibility",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "la suppression des trains à étage"
+ },
+ {
+  "item": 387,
+  "attr": "Comfort",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "Une surréservation en 1ère"
+ },
+ {
+  "item": 389,
+  "attr": "Empathy",
+  "label": "Positive",
+  "score": 1,
+  "evidence": "가족 여행 등 다양한 여행목적"
+ },
+ {
+  "item": 391,
+  "attr": "Responsiveness",
+  "label": "Negative",
+  "score": -1,
+  "evidence": "per motivazioni a noi anomale"
+ },
+ {
+  "item": 391,
+  "attr": "Assurance",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ },
+ {
+  "item": 392,
+  "attr": "Reliability",
+  "label": "Not_mentioned",
+  "score": 0,
+  "evidence": ""
+ }
+]

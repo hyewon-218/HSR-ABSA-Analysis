@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.jsonl
+reannotation_input.csv
+claude_reannotation.csv
+gemini_reannotation.csv

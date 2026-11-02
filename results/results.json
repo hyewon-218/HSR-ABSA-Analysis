@@ -1,0 +1,586 @@
+{
+ "n_reviews": 14764,
+ "n_annotated": 14764,
+ "label_counts": {
+  "Tangibility": {
+   "Not_mentioned": 7873,
+   "Positive": 3556,
+   "Negative": 2699,
+   "Mixed": 567,
+   "Neutral": 69
+  },
+  "Reliability": {
+   "Not_mentioned": 7321,
+   "Negative": 3886,
+   "Positive": 3268,
+   "Mixed": 240,
+   "Neutral": 49
+  },
+  "Responsiveness": {
+   "Not_mentioned": 9602,
+   "Negative": 3922,
+   "Positive": 1048,
+   "Mixed": 161,
+   "Neutral": 31
+  },
+  "Assurance": {
+   "Not_mentioned": 10325,
+   "Negative": 2346,
+   "Positive": 1894,
+   "Mixed": 168,
+   "Neutral": 31
+  },
+  "Empathy": {
+   "Not_mentioned": 9581,
+   "Negative": 3206,
+   "Positive": 1775,
+   "Mixed": 173,
+   "Neutral": 29
+  },
+  "Comfort": {
+   "Not_mentioned": 7402,
+   "Positive": 4381,
+   "Negative": 2483,
+   "Mixed": 452,
+   "Neutral": 46
+  }
+ },
+ "MR_mean": {
+  "Tangibility": 46.4,
+  "Reliability": 49.7,
+  "Responsiveness": 34.3,
+  "Assurance": 29.8,
+  "Empathy": 36.1,
+  "Comfort": 50.4
+ },
+ "MR_range": {
+  "Tangibility": [
+   24.5,
+   75.2
+  ],
+  "Reliability": [
+   26.8,
+   81.2
+  ],
+  "Responsiveness": [
+   11.9,
+   59.2
+  ],
+  "Assurance": [
+   19.1,
+   40.5
+  ],
+  "Empathy": [
+   14.4,
+   46.8
+  ],
+  "Comfort": [
+   28.2,
+   65.8
+  ]
+ },
+ "cluster_indices": {
+  "2": {
+   "sil": 0.6496,
+   "WSS": 12.0177,
+   "CH": 31.941,
+   "gap": 0.8387,
+   "sk": 0.1749
+  },
+  "3": {
+   "sil": 0.5404,
+   "WSS": 6.1397,
+   "CH": 30.7038,
+   "gap": 1.1956,
+   "sk": 0.1976
+  },
+  "4": {
+   "sil": 0.4213,
+   "WSS": 3.424,
+   "CH": 33.0463,
+   "gap": 1.4476,
+   "sk": 0.1902
+  },
+  "5": {
+   "sil": 0.2966,
+   "WSS": 2.4747,
+   "CH": 29.0571,
+   "gap": 1.3616,
+   "sk": 0.235
+  },
+  "6": {
+   "sil": 0.2207,
+   "WSS": 1.5682,
+   "CH": 29.8077,
+   "gap": 1.4256,
+   "sk": 0.2436
+  },
+  "1": {
+   "gap": -0.372,
+   "sk": 0.1277
+  }
+ },
+ "gap_selected_k": 4,
+ "merge_heights": [
+  0.63,
+  0.677,
+  1.057,
+  1.088,
+  1.307,
+  1.378,
+  2.336,
+  3.209,
+  7.321
+ ],
+ "partition_k2": [
+  [
+   "KTX",
+   "Shinkansen",
+   "THSR",
+   "CRH"
+  ],
+  [
+   "ICE",
+   "Eurostar",
+   "Frecciarossa",
+   "Italo",
+   "TGV",
+   "RENFE"
+  ]
+ ],
+ "partition_k3": [
+  [
+   "KTX",
+   "Shinkansen",
+   "THSR",
+   "CRH"
+  ],
+  [
+   "Eurostar",
+   "Frecciarossa",
+   "TGV",
+   "RENFE"
+  ],
+  [
+   "ICE",
+   "Italo"
+  ]
+ ],
+ "partition_k4": [
+  [
+   "KTX",
+   "Shinkansen",
+   "THSR"
+  ],
+  [
+   "CRH"
+  ],
+  [
+   "Eurostar",
+   "Frecciarossa",
+   "TGV",
+   "RENFE"
+  ],
+  [
+   "ICE",
+   "Italo"
+  ]
+ ],
+ "clusters": {
+  "KTX": 1,
+  "Shinkansen": 1,
+  "THSR": 1,
+  "ICE": 2,
+  "Eurostar": 3,
+  "Frecciarossa": 3,
+  "Italo": 2,
+  "TGV": 3,
+  "RENFE": 3,
+  "CRH": 1
+ },
+ "cluster_profile": {
+  "1": {
+   "Tangibility": 1.103,
+   "Reliability": 1.44,
+   "Responsiveness": 0.307,
+   "Assurance": 0.83,
+   "Empathy": 0.323,
+   "Comfort": 1.071
+  },
+  "2": {
+   "Tangibility": -0.895,
+   "Reliability": -1.354,
+   "Responsiveness": -1.634,
+   "Assurance": -1.092,
+   "Empathy": -1.303,
+   "Comfort": -0.751
+  },
+  "3": {
+   "Tangibility": -0.45,
+   "Reliability": -0.435,
+   "Responsiveness": -1.177,
+   "Assurance": -0.347,
+   "Empathy": -0.687,
+   "Comfort": 0.183
+  }
+ },
+ "cluster_MR": {
+  "1": {
+   "Tangibility": 52.7,
+   "Reliability": 38.0,
+   "Responsiveness": 16.5,
+   "Assurance": 22.3,
+   "Empathy": 29.0,
+   "Comfort": 55.9
+  },
+  "2": {
+   "Tangibility": 31.7,
+   "Reliability": 68.9,
+   "Responsiveness": 52.6,
+   "Assurance": 36.5,
+   "Empathy": 36.4,
+   "Comfort": 33.7
+  },
+  "3": {
+   "Tangibility": 47.4,
+   "Reliability": 51.7,
+   "Responsiveness": 42.9,
+   "Assurance": 34.0,
+   "Empathy": 43.1,
+   "Comfort": 53.1
+  }
+ },
+ "linkage": {
+  "average": 1.0,
+  "single": 0.466,
+  "ward": 1.0
+ },
+ "linkage_groups": {
+  "average": [
+   [
+    "KTX",
+    "Shinkansen",
+    "THSR",
+    "CRH"
+   ],
+   [
+    "Eurostar",
+    "Frecciarossa",
+    "TGV",
+    "RENFE"
+   ],
+   [
+    "ICE",
+    "Italo"
+   ]
+  ],
+  "single": [
+   [
+    "ICE",
+    "Eurostar",
+    "Frecciarossa",
+    "Italo",
+    "TGV",
+    "RENFE"
+   ],
+   [
+    "KTX",
+    "Shinkansen",
+    "THSR"
+   ],
+   [
+    "CRH"
+   ]
+  ],
+  "ward": [
+   [
+    "KTX",
+    "Shinkansen",
+    "THSR",
+    "CRH"
+   ],
+   [
+    "Eurostar",
+    "Frecciarossa",
+    "TGV",
+    "RENFE"
+   ],
+   [
+    "ICE",
+    "Italo"
+   ]
+  ]
+ },
+ "noEurostar_ARI": 1.0,
+ "noEurostar_sil": 0.526,
+ "boot_same_partition": 0.946,
+ "boot_jaccard": {
+  "1": 1.0,
+  "2": 0.973,
+  "3": 0.989
+ },
+ "pca_var": [
+  0.9374,
+  0.0286,
+  0.0179,
+  0.0129,
+  0.0019,
+  0.0013
+ ],
+ "pc1_loadings": [
+  0.411,
+  0.415,
+  0.412,
+  0.409,
+  0.4,
+  0.402
+ ],
+ "corr_range": [
+  0.873,
+  0.981
+ ],
+ "pc1_partition_ARI": 1.0,
+ "pc1_residuals": {
+  "KTX": {
+   "Tangibility": -0.11,
+   "Reliability": -0.04,
+   "Responsiveness": -0.09,
+   "Assurance": -0.09,
+   "Empathy": 0.35,
+   "Comfort": -0.01
+  },
+  "Shinkansen": {
+   "Tangibility": 0.09,
+   "Reliability": 0.11,
+   "Responsiveness": 0.08,
+   "Assurance": 0.25,
+   "Empathy": -0.79,
+   "Comfort": 0.24
+  },
+  "THSR": {
+   "Tangibility": -0.16,
+   "Reliability": -0.26,
+   "Responsiveness": 0.24,
+   "Assurance": 0.16,
+   "Empathy": 0.16,
+   "Comfort": -0.12
+  },
+  "ICE": {
+   "Tangibility": 0.17,
+   "Reliability": -0.04,
+   "Responsiveness": 0.37,
+   "Assurance": -0.04,
+   "Empathy": -0.12,
+   "Comfort": -0.37
+  },
+  "Eurostar": {
+   "Tangibility": -0.23,
+   "Reliability": -0.1,
+   "Responsiveness": 0.08,
+   "Assurance": 0.12,
+   "Empathy": -0.22,
+   "Comfort": 0.35
+  },
+  "Frecciarossa": {
+   "Tangibility": -0.17,
+   "Reliability": -0.24,
+   "Responsiveness": 0.08,
+   "Assurance": 0.39,
+   "Empathy": 0.05,
+   "Comfort": -0.11
+  },
+  "Italo": {
+   "Tangibility": 0.14,
+   "Reliability": 0.03,
+   "Responsiveness": -0.06,
+   "Assurance": -0.01,
+   "Empathy": -0.03,
+   "Comfort": -0.07
+  },
+  "TGV": {
+   "Tangibility": -0.3,
+   "Reliability": 0.21,
+   "Responsiveness": -0.25,
+   "Assurance": -0.07,
+   "Empathy": 0.17,
+   "Comfort": 0.25
+  },
+  "RENFE": {
+   "Tangibility": 0.08,
+   "Reliability": 0.01,
+   "Responsiveness": -0.43,
+   "Assurance": -0.19,
+   "Empathy": 0.14,
+   "Comfort": 0.4
+  },
+  "CRH": {
+   "Tangibility": 0.49,
+   "Reliability": 0.32,
+   "Responsiveness": -0.02,
+   "Assurance": -0.53,
+   "Empathy": 0.31,
+   "Comfort": -0.57
+  }
+ },
+ "speed_spearman": [
+  0.052,
+  0.886
+ ],
+ "mean_SS": {
+  "KTX": 0.81,
+  "Shinkansen": 0.973,
+  "THSR": 1.127,
+  "ICE": -1.391,
+  "Eurostar": -0.546,
+  "Frecciarossa": -0.523,
+  "Italo": -0.952,
+  "TGV": -0.51,
+  "RENFE": -0.363,
+  "CRH": 0.472
+ },
+ "NSI_ARI": 1.0,
+ "NSI_spearman": {
+  "Tangibility": 0.867,
+  "Reliability": 1.0,
+  "Responsiveness": 0.903,
+  "Assurance": 0.964,
+  "Empathy": 0.988,
+  "Comfort": 1.0
+ },
+ "n_groups": {
+  "1": [
+   1094,
+   4860
+  ],
+  "2": [
+   1700,
+   1427
+  ],
+  "3": [
+   1407,
+   2222
+  ]
+ },
+ "MW_sig": 13,
+ "MW_sig_foreign": 11,
+ "Holm_sig": 13,
+ "CL_sig_foreign": 13,
+ "CL_sig_domestic": 0,
+ "VE_sig_foreign": 13,
+ "VE_sig_domestic": 0,
+ "CL_OR_range_sig": [
+  1.6,
+  6.0
+ ],
+ "rrb_range": [
+  -0.447,
+  0.14
+ ],
+ "per_system_sig_domestic": 1,
+ "per_system_sig_foreign": 24,
+ "per_system_domestic_higher": 9,
+ "S4": {
+  "EN": [
+   16,
+   12,
+   0
+  ],
+  "OT": [
+   17,
+   13,
+   0
+  ]
+ },
+ "deff": {
+  "1": 13,
+  "1.5": 13,
+  "2": 12,
+  "3": 10
+ },
+ "star_spearman_all": 0.85,
+ "star_spearman_by_system": {
+  "CRH": 0.425,
+  "Eurostar": 0.87,
+  "Frecciarossa": 0.837,
+  "ICE": 0.538,
+  "Italo": 0.744,
+  "KTX": 0.484,
+  "RENFE": 0.855,
+  "Shinkansen": 0.451,
+  "TGV": 0.864,
+  "THSR": 0.325
+ },
+ "star_spearman_by_lang": {
+  "de": 0.733,
+  "en": 0.834,
+  "es": 0.858,
+  "fr": 0.811,
+  "it": 0.793,
+  "ja": 0.498,
+  "ko": 0.344,
+  "pt": 0.569,
+  "zh": 0.445
+ },
+ "star_attr_spearman": {
+  "Tangibility": 0.775,
+  "Reliability": 0.861,
+  "Responsiveness": 0.783,
+  "Assurance": 0.816,
+  "Empathy": 0.776,
+  "Comfort": 0.765
+ },
+ "CL_cov_sig_foreign": 12,
+ "CL_cov_sig_domestic": 1,
+ "trip_dist": {
+  "커플": 3537,
+  "개인": 2807,
+  "가족": 2458,
+  "Unknown": 2338,
+  "비지니스": 1939,
+  "친구": 1685
+ },
+ "period_dist": {
+  "<=2019": 8778,
+  ">=2022": 4997,
+  "2020-21": 885
+ },
+ "written_range": [
+  "2010-09-20",
+  "2025-12-27"
+ ],
+ "tone_diff": {
+  "Assurance": {
+   "mean": 0.069,
+   "min": -0.452,
+   "max": 0.493
+  },
+  "Comfort": {
+   "mean": 0.555,
+   "min": -0.277,
+   "max": 1.044
+  },
+  "Empathy": {
+   "mean": -0.089,
+   "min": -0.414,
+   "max": 0.215
+  },
+  "Reliability": {
+   "mean": 0.127,
+   "min": -0.308,
+   "max": 0.413
+  },
+  "Responsiveness": {
+   "mean": -0.613,
+   "min": -1.325,
+   "max": -0.067
+  },
+  "Tangibility": {
+   "mean": 0.409,
+   "min": 0.056,
+   "max": 0.852
+  }
+ },
+ "multi_attr_n": 11429,
+ "multi_attr_diff_scores_pct": 58.3,
+ "cut_height": 2.77
+}

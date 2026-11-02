@@ -1,0 +1,401 @@
+﻿item,Tangibility_label,Tangibility_score,Tangibility_evidence,Reliability_label,Reliability_score,Reliability_evidence,Responsiveness_label,Responsiveness_score,Responsiveness_evidence,Assurance_label,Assurance_score,Assurance_evidence,Empathy_label,Empathy_score,Empathy_evidence,Comfort_label,Comfort_score,Comfort_evidence
+1,Negative,-1,el carro no cabe por el pasillo,Not_mentioned,0,,Mixed,0,enseguida se acerca a ayudarme,Mixed,0,Azafata muy mal educada,Negative,-1,"con bebe de 8 meses, carro plegable",Not_mentioned,0,
+2,Not_mentioned,0,,Negative,-2,Ho perso tre coincidenze per loro,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,il biglietto ovviamente pagato caro: 40 euro,Not_mentioned,0,
+3,Positive,1,車両、乗り心地、日本の新幹線のいとこさん,Not_mentioned,0,,Not_mentioned,0,,Positive,1,英語の車内アナウンス,Not_mentioned,0,,Positive,2,乗り心地、日本の新幹線のいとこさんで快適でした
+4,Neutral,0,車両はまったく日本のコピー品,Negative,-1,日本発行のクレジットカードでは支払い不可能,Negative,-2,過去に2時間も待たされた事も,Not_mentioned,0,,Positive,1,新幹線より安く、かつ速度が速い,Negative,-1,揺れや振動、騒音（ノイズ）は新幹線にはかないません
+5,Not_mentioned,0,,Mixed,0,"기차는 없었지만, 여전히 매우 순조롭게",Not_mentioned,0,,Positive,2,너무 친절하고 전문적이고 유쾌한,Not_mentioned,0,,Positive,2,편안한 좌석
+6,Not_mentioned,0,,Positive,2,"Trains were on time, and arrived on time",Not_mentioned,0,,Not_mentioned,0,,Positive,1,I did not find the cost prohibitive,Positive,2,impressed by the speed and comfort
+7,Positive,2,sumamente moderna con muchas plataformas,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+8,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Mixed,0,料金が高いのがネックです,Not_mentioned,0,
+9,Positive,2,el tren limpio,Positive,2,bien con la puntualidad,Not_mentioned,0,,Not_mentioned,0,,Neutral,0,comprar los pasajes con anticipación para conseguir mejores precios,Positive,2,asientos cómodos
+10,Not_mentioned,0,,Negative,-2,Zug aufgrund der alleinigen Schuld der deutschen Bahn zu spät,Negative,-2,Ungemeine Kundenverachtung,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+11,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,il servizio bar non è passato,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+12,Negative,-1,Solo les faltaria agregar Wifi,Not_mentioned,0,,Not_mentioned,0,,Positive,2,El servicio perfecto,Positive,1,por muy poca diferencia hacerlo en categoria ejecutiva,Positive,2,la comodidad tambien
+13,Negative,-1,Anzeigen zeigen nicht immer richtig an,Negative,-2,6 Stunden Verspätung,Negative,-2,Servicewüste Deutschland,Mixed,0,Hut ab vor den Zugbegleitern,Negative,-1,Selbst für einen Reisepreis von 9 Euro sind die gesamten Umstände so wie wir es erleben mussten nicht gerechtfertigt.,Negative,-2,Stickige Luft und Lautstärke
+14,Positive,2,火車內部清潔,Mixed,0,"遲遲未見, 每天都去Check",Not_mentioned,0,,Not_mentioned,0,,Positive,2,真的便宜好多,Not_mentioned,0,
+15,Negative,-1,mauvais affichage des voitures,Negative,-2,Retard du à un mauvais affichage,Negative,-2,arrêtez de prendre les voyageurs pour des abrutis,Negative,-2,"un message incompréhensible, 3 fois",Not_mentioned,0,,Not_mentioned,0,
+16,Negative,-1,플랫폼까지 너무 멀어서 힘들긴,Negative,-1,중간에 계속 멈추긴 했지만,Not_mentioned,0,,Not_mentioned,0,,Neutral,0,160원이고 이지카드로 사용이 가능,Not_mentioned,0,
+17,Negative,-1,駅にはあまり売店もない,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,快適ですが
+18,Negative,-2,"WiFi ... non funziona, instabile e lentissima",Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+19,Positive,2,乾淨的車廂內部,Positive,1,高鐵快速的服務,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+20,Not_mentioned,0,,Not_mentioned,0,,Positive,1,30分鐘前可以取消，費用扣20元而已,Not_mentioned,0,,Positive,2,最低65折,Not_mentioned,0,
+21,Positive,2,Treno pulito,Positive,2,in perfetto orario,Not_mentioned,0,,Not_mentioned,0,,Positive,1,Prezzi in offerta,Not_mentioned,0,
+22,Mixed,0,まだ全ての先にコンセントがある訳ではない,Not_mentioned,0,,Positive,2,コンセント付きの席に変更して貰えました,Not_mentioned,0,,Positive,1,日本の新幹線と比較しても安い,Positive,2,車内は思いの他静かで
+23,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,아주 빠르고 저렴한 이동수단,Not_mentioned,0,
+24,Not_mentioned,0,,Not_mentioned,0,,Positive,1,줄이 짧아 오히려 빨리 들어갈 수 있었다,Not_mentioned,0,,Positive,2,저렴하고 빠르다,Negative,-1,의자가 아니라 불편하다
+25,Positive,2,It's clean,Positive,1,depart around every 15-20 minutes,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,super quiet
+26,Positive,1,una pequeña cafetería donde puedes comprar a cualquier hora,Not_mentioned,0,,Positive,2,no te cobran penalidades,Positive,2,el sevicio fue muy bueno,Positive,1,los más costosos de Eurostar pero vale la pena,Not_mentioned,0,
+27,Negative,-2,Ponen los trenes más antiguos que tienen,Negative,-2,Resultando ser un viaje de 8 horas,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,los precios por las nubes,Not_mentioned,0,
+28,Not_mentioned,0,,Positive,2,der Taktfrequenz der Züge,Not_mentioned,0,,Positive,1,dem Service,Not_mentioned,0,,Not_mentioned,0,
+29,Not_mentioned,0,,Negative,-2,vos retards incessants,Negative,-2,service client déplorable,Negative,-2,contrôleurs méprisants,Negative,-2,Assez de payer une blinde,Not_mentioned,0,
+30,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,Dieses ist nicht möglich,Not_mentioned,0,,Negative,-2,mich halt mit Corona in den Zug zu setzen,Not_mentioned,0,
+31,Negative,-2,le pire TGV que j'ai pu prendre,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+32,Not_mentioned,0,,Positive,1,The train was on time,Mixed,0,the queue was endless,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,legroom in standard class was just about adequate
+33,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Neutral,0,payer votre place et la réservation de votre siège en plus,Positive,1,Nous avons pu nous reposer 3 heures
+34,Positive,2,무료 와이파이,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,편안한 좌석 (게다가 발걸이 각 좌석)
+35,Positive,2,pulito,Positive,2,puntualissimo sia andata che ritorno,Negative,-1,specificherei meglio questa cosa,Positive,2,Personale molto gentile e simpatico,Not_mentioned,0,,Not_mentioned,0,
+36,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,가격도 저렴한 편,Negative,-1,내부 공간이 좁은 편
+37,Negative,-2,standard di pulizia vernante basso,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,per quanto costa,Not_mentioned,0,
+38,Negative,-2,"chere, médiocre et industrielle",Not_mentioned,0,,Negative,-2,"je n'y peux rien, c'est le prix de la formule",Not_mentioned,0,,Negative,-2,"reste au même prix, voire plus chère",Not_mentioned,0,
+39,Not_mentioned,0,,Negative,-2,est parti avec du retard,Negative,-2,Aucune aide,Negative,-1,une manière de se dédouaner,Negative,-1,Aucun voucher. On doit se débrouiller.,Not_mentioned,0,
+40,Mixed,0,le cuccette sono un pò datate,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Neutral,0,il prezzo del viaggio (35 Euro),Negative,-2,un caldo allucinante e altri freddo
+41,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Was ein hervorragender Service,Positive,2,alle Beteiligten waren total nett,Not_mentioned,0,,Not_mentioned,0,
+42,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,Selbst 15 Sekunden haben sie mir nicht mehr geben wollen,Negative,-1,diese Gefahr nehmen sie gerne in Kauf,Not_mentioned,0,,Not_mentioned,0,
+43,Not_mentioned,0,,Positive,1,C'est très facile,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+44,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,用國際標準來看好像也還OK,Positive,2,很快也很舒服
+45,Not_mentioned,0,,Positive,2,時間の正確性といい,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Mixed,0,激混みになりますが
+46,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,항상 사람들이 긴 줄이 기다리고,Mixed,0,아주 친절하고,Not_mentioned,0,,Not_mentioned,0,
+47,Not_mentioned,0,,Positive,2,到着出発時間は、かなり正確です,Not_mentioned,0,,Not_mentioned,0,,Positive,2,日本で同じ距離の普通車よりお安い,Negative,-2,正直普通席は「うるさい」です
+48,Negative,-2,Daté,Negative,-2,Constamment retardé à chaque fois,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+49,Negative,-2,The overhead storage is barely sufficient,Negative,-2,The train was 40 mins delayed,Negative,-2,the staff is hopeless,Negative,-2,not courteous at all,Not_mentioned,0,,Negative,-2,very little leg room
+50,Mixed,0,They don’t sell coffee though,Positive,2,You can fully trust the time schedule,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,the ride is smooth
+51,Mixed,0,The bathrooms (both on the train & in the terminal) were dirty,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,some staff could be friendlier,Negative,-1,it's expensive for what one gets,Mixed,0,"Seats were somewhat comfortable, but plenty of legroom"
+52,Not_mentioned,0,,Positive,2,Fast train and on time,Negative,-1,need to add more counter for buy tickets,Negative,-1,staffs who can Speak English,Not_mentioned,0,,Not_mentioned,0,
+53,Negative,-1,unklaren Gleiswechseln,Negative,-2,Unpünktlichkeiten,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,hohe Ticketpreise,Not_mentioned,0,
+54,Positive,2,놀라 울 정도로 깨끗하고,Not_mentioned,0,,Positive,1,승무원 이 와서 한 시간마다 있는 음료와 간식거리,Not_mentioned,0,,Not_mentioned,0,,Mixed,0,편안하고 조용했지만 조금 답답한
+55,Negative,-2,PAS DE WIFI,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+56,Negative,-2,jamais je n'ai pu avoir une connexion digne de ce nom,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,au prix du billet,Not_mentioned,0,
+57,Negative,-1,quedo una estación muy simple,Positive,1,punto positivo la conexión con Madrid,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+58,Not_mentioned,0,,Positive,1,到着時間が速くて助かります,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+59,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,가격도 비수기에는 매우 저렴합니다,Positive,2,가속으로 인한 덜컹거림은 없습니다
+60,Positive,2,la pulizia,Positive,2,la puntualità,Not_mentioned,0,,Positive,2,la gentilezza e competenza del personale,Not_mentioned,0,,Not_mentioned,0,
+61,Mixed,0,荷物置き場が少なく,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,ゆったりのんびり旅情を味わえました
+62,Positive,2,매우 편안하고 깨끗한 역,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,매우 편안하고
+63,Not_mentioned,0,,Mixed,0,종종 지연이나 사고 소식이 있지만,Not_mentioned,0,,Positive,2,"가장 편리하고, 안전한 열차입니다",Not_mentioned,0,,Not_mentioned,0,
+64,Positive,2,火车站的基础设施都做的很好,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+65,Negative,-2,Un treno squallido,Negative,-2,in ritardo di 4 ore sia all'andata che al ritorno,Not_mentioned,0,,Negative,-2,servizio indecente,Not_mentioned,0,,Negative,-2,non andava nemmeno l'aria condizionata
+66,Negative,-1,离市区非常远,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+67,Mixed,0,買票的地方不是很明顯而且很遠,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+68,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,attendu 1h dans le froid pour passer la sécurité,Not_mentioned,0,,Negative,-1,cela ne choque pas du tout le personnel,Not_mentioned,0,
+69,Not_mentioned,0,,Positive,1,班次選擇性較多，比較方便,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+70,Not_mentioned,0,,Negative,-2,siempre llego entre 1 y 3 horas tardes,Negative,-2,el servicio es extremadamente malo,Negative,-2,los empleados son mala onda,Negative,-1,No vale la pena,Not_mentioned,0,
+71,Positive,2,시설도 시스템도 잘 되어 있어서,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+72,Not_mentioned,0,,Negative,-2,三時間の遅れ,Negative,-2,対応があまりにひどく,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,ただひたすらに立たされ続けました
+73,Negative,-2,unter aller Kanone dreckig,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,keinen Aufzug für Rollstuhlfahrer und Kinderwagen,Not_mentioned,0,
+74,Negative,-2,Wifi = 0,Negative,-2,Train à l’heure = 0,Negative,-2,Service = 0,Negative,-2,Amabilité des contrôleurs = 0,Negative,-2,Paris -> Nantes = 120€,Not_mentioned,0,
+75,Not_mentioned,0,,Positive,1,기차가 자주 실행,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,"조용한, 부드러운"
+76,Negative,-2,Les toilettes bouchées dès le départ,Negative,-2,une heure et demi de retard,Negative,-2,"17.5 à deux de "" geste commercial """,Negative,-1,on n'en sait pas plus,Not_mentioned,0,,Not_mentioned,0,
+77,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,Pessima l'assistenza,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+78,Not_mentioned,0,,Positive,1,아주 편리한 교통수단이다,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+79,Negative,-2,la rete internet era attiva solo dalle tratte da Salerno in poi,Negative,-2,Coincidenza persa!,Negative,-2,neanche l ombra di un mini rimborso,Negative,-2,mi rassicurarono e decisi di fare il biglietto,Negative,-2,prezzi biglietti non coerenti,Not_mentioned,0,
+80,Negative,-2,per utilizzare il bagno bisognava andare a 4 carrozze dopo,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,Per quello che si paga,Not_mentioned,0,
+81,Not_mentioned,0,,Negative,-2,siempre averiado,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+82,Positive,2,Le carrozze sono spaziose e pulitissime,Positive,1,in modo molto veloce e conveniente,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Non costano troppo,Positive,1,Le carrozze sono spaziose
+83,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,non va neanche l’aria condizionata
+84,Not_mentioned,0,,Negative,-2,70 minuti di ritardo,Negative,-2,IO STO ANCORA ATTENDENDO IL RIMBORSO,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+85,Not_mentioned,0,,Positive,1,"rapide , pas cher, et facile",Not_mentioned,0,,Not_mentioned,0,,Positive,2,pas cher,Not_mentioned,0,
+86,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,정차 브레이크 소리가 크게 나기 때문에
+87,Positive,1,自動販売機で簡単に購入できます,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,1.5ユーロ程度だったと思う,Not_mentioned,0,
+88,Not_mentioned,0,,Positive,1,시간절약 톡톡히 합니다,Not_mentioned,0,,Not_mentioned,0,,Positive,1,탑승권 보여주면 할인되더라고요,Not_mentioned,0,
+89,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,La modifica prenotazione non è possibile online,Not_mentioned,0,,Negative,-1,a pagamento (molto salato!),Not_mentioned,0,
+90,Positive,2,아주 깨끗했습니다,Positive,1,웹 사이트에서 직접 예약하기 쉬운,Not_mentioned,0,,Not_mentioned,0,,Neutral,0,$20 추가했습니다,Positive,2,"부드럽게, 편안한 여행"
+91,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,全線乗り放題でお得です,Not_mentioned,0,
+92,Not_mentioned,0,,Positive,1,3시간30분이면 서울에 나를 내려준,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,피곤한 몸을 푹쉬게
+93,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,deberían avisarte antes de comprar tu billete,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,A 27 grados y sin aire acondicionado
+94,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,"11,900 (편도) 을업그레이드",Positive,2,좌석이 아주 편안합니다
+95,Not_mentioned,0,,Negative,-2,schafft es gefühlt kein Zug pünktlich zu sein,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,Viel zu teuer für das was man bekommt,Not_mentioned,0,
+96,Positive,2,pero impresionante,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,por no usar mucho el inglés,Not_mentioned,0,,Not_mentioned,0,
+97,Not_mentioned,0,,Negative,-2,Non è mai stata una volta che treno non ha fatto ritardo,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+98,Positive,2,整體環境乾淨,Positive,2,鮮少誤點,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,票價稍貴，常搭乘會吃不消,Not_mentioned,0,
+99,Not_mentioned,0,,Negative,-2,schafft es nicht in 2024 Züge über Schienen zu bewegen,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+100,Positive,1,記念の駅弁を買いますと,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+101,Not_mentioned,0,,Positive,2,2시간이면 갈 수 있다니 너무 좋고 편리합니다,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,비용적인 면이 부담이 될 때도 있어요,Not_mentioned,0,
+102,Positive,1,l'ho trovato sempre in ordine,Positive,2,Siamo arrivati in orario a Parigi,Not_mentioned,0,,Positive,2,parlava un buon italiano e tutti erano gentili,Not_mentioned,0,,Positive,1,riposare in condizioni accettabili
+103,Not_mentioned,0,,Positive,2,高速度・高頻度に運転されている,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,快適かつ
+104,Positive,2,设施不错，指示牌准确,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+105,Positive,2,ottimo Wi-Fi ed altre amenità,Positive,1,in circa due ore,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Si viaggia comodi ed in un ambiente rilassato
+106,Negative,-2,tenemos railes de risa,Negative,-2,tardamos tela,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+107,Positive,1,ホームに売店がたくさんあり,Not_mentioned,0,,Not_mentioned,0,,Positive,1,英語でオーケー,Positive,2,何より運賃が安い印象,Not_mentioned,0,
+108,Not_mentioned,0,,Negative,-2,we weren’t going to be put on our booked train,Not_mentioned,0,,Negative,-2,very unprofessional to say the least,Not_mentioned,0,,Not_mentioned,0,
+109,Not_mentioned,0,,Negative,-2,es un trayecto muy lento,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+110,Mixed,0,estos trenes tan antiguos y lentos,Negative,-1,trenes tan antiguos y lentos,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,los precios son tan elevadísimos,Negative,-2,6 horas en esa posición acaba molestando mucho
+111,Not_mentioned,0,,Positive,2,整整節省了兩個小時,Not_mentioned,0,,Not_mentioned,0,,Positive,1,"雖然票價差了快三倍, 但時間就是金錢, 值得",Not_mentioned,0,
+112,Not_mentioned,0,,Negative,-2,Treno in ritardo,Not_mentioned,0,,Negative,-1,Un servizio pessimo,Not_mentioned,0,,Negative,-2,area condizionata non funzionante
+113,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,that woman's hostile behaviour,Negative,-2,Clear act of racism,Not_mentioned,0,
+114,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,Well worth the additional money from economy,Not_mentioned,0,
+115,Positive,1,finalmente snack gluten free,Positive,2,Puntualità del treno,Not_mentioned,0,,Positive,2,gentilezza estrema del personale,Positive,1,snack gluten free,Not_mentioned,0,
+116,Mixed,0,los baños tipos turcos,Positive,2,Hay puntualidad al salir los trenes,Not_mentioned,0,,Not_mentioned,0,,Positive,2,barato en comparación de los aviones,Not_mentioned,0,
+117,Not_mentioned,0,,Negative,-2,wieder kommt der Zug nicht,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,hauptsache die Preise werden erhöht,Not_mentioned,0,
+118,Positive,2,車廂內環境明亮乾淨整齊,Positive,2,車次非常準時,Positive,2,詢問站務人員都可以馬上得到協助,Not_mentioned,0,,Neutral,0,在預算許可下,Positive,2,搭乘起來十分舒適
+119,Not_mentioned,0,,Negative,-2,eh schon 30 min Verspätung hatte,Negative,-2,man kriegt nichts an Geld zurück,Negative,-1,Erst nachdem man losfährt wird gesagt,Not_mentioned,0,,Not_mentioned,0,
+120,Not_mentioned,0,,Negative,-2,pas capable de respecter la ponctualité,Not_mentioned,0,,Negative,-2,une telle méchanceté,Negative,-2,se graisser les mains avec votre argent,Not_mentioned,0,
+121,Not_mentioned,0,,Negative,-2,ritardo segnalato sin dai primi minuti,Not_mentioned,0,,Negative,-2,Personale maleducato,Negative,-2,non importava nulla che a qualche passeggero potesse mancare l’aria,Negative,-2,Senza aria condizionata con un caldo infernale
+122,Mixed,0,the maze like buildings,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,not noisy and quite peaceful
+123,Positive,2,電源は当たり前、Wifi だって使えます,Positive,2,遅延なく短時間間隔で運行する,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,のぞみで行っても疲れませんね
+124,Positive,2,impressionnante de propreté et immense,Positive,1,"Voyage rapide , très rapide",Positive,1,Les hôtesses passent pour vous donner des rafraîchissements,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Le peu de bruit et la souplesse
+125,Not_mentioned,0,,Negative,-2,"nos dejaron varados en pisa ,sin previo aviso",Negative,-2,sin respuesta alguna,Negative,-2,"la desinformación,el maltrato al turista",Negative,-2,desconsideracion  absoluta al turista,Not_mentioned,0,
+126,Positive,2,impressed with the amenities and enormity of the place,Positive,2,Departure and arrival are punctual,Positive,1,able to change my tickets to an earlier train,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,queue jumpers and some shoving
+127,Negative,-2,sur l'échelle de Richter de la malbouffe,Not_mentioned,0,,Negative,-1,attente interminable dans le couloir de service,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+128,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+129,Not_mentioned,0,,Negative,-1,Falsche Infos über Verspätung,Negative,-2,kein Personal am Bahnsteig zum erfragen,Negative,-2,Falsche Infos über Verspätung falsche Infos zu Anschluß Zügen,Not_mentioned,0,,Not_mentioned,0,
+130,Not_mentioned,0,,Negative,-2,hanno soppresso il  treno che dovevamo prendere,Negative,-2,hanno avvertito solo all'ultimo momento,Not_mentioned,0,,Negative,-2,52€ in più a persona,Not_mentioned,0,
+131,Positive,2,设施设计很新，大厅很高很宽阔,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,不会给人压抑的感觉
+132,Positive,1,指定席券売機などですぐに買うことができ,Positive,2,繁忙期は３分に１本,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+133,Not_mentioned,0,,Negative,-2,"reservierten Sitzplatz, den ich schliesslich nicht habe",Not_mentioned,0,,Not_mentioned,0,,Negative,-2,der DB ihre Kunden dermassen egal sind,Negative,-2,Gefühlte 30 Grad (im Oktober) im überfüllten Zug
+134,Negative,-1,non è affatto un treno da alta velocità,Negative,-2,accumula ritardo  tanto da perdere la coincidenza,Negative,-2,trenitalia tace e ti dice arrangiati,Not_mentioned,0,,Negative,-2,costa il doppio di un IC,Negative,-2,aria condizionata assolutamente sballata
+135,Negative,-1,説明書きは、降車時、駅のどこにもなかった,Positive,2,時刻は正確,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,乗り心地も良好
+136,Positive,2,die Waggons sind sehr sauber,Positive,2,so gut wie keine Verspätung,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,die Sitze sind bequem
+137,Not_mentioned,0,,Positive,1,정말 긴 여행이 될 듯,Not_mentioned,0,,Not_mentioned,0,,Positive,1,외국인에게 할인도 되니,Not_mentioned,0,
+138,Not_mentioned,0,,Positive,1,本数も多く,Not_mentioned,0,,Positive,2,日本語、英語の通じる窓口も多い,Positive,2,運賃も安いので便利です,Mixed,0,2等は2+2列の向きの変えれないシートでキツキツ
+139,Not_mentioned,0,,Negative,-2,nos encerraron en una via durante 12 horas,Negative,-2,sin comida ni bebida ni ninguna comunicacion,Negative,-2,no tiene personal cualificado,Negative,-2,SUS CIUDADANOS NO LES IMPORTAN NADA,Not_mentioned,0,
+140,Positive,2,Railway station is amazing,Positive,2,The precision timing,Not_mentioned,0,,Not_mentioned,0,,Positive,1,"""Porter"" service it is cheap",Negative,-1,The station is always very crowded
+141,Positive,2,清潔人員也會一直來巡邏,Not_mentioned,0,,Negative,-1,站務人員進站時沒有協助,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+142,Positive,2,"so modern, and efficient",Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+143,Not_mentioned,0,,Negative,-2,i servizi comprati non sono disponibili,Negative,-2,BISOGNA PAGARE LA TELEFONATA,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+144,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,le contrôleur n'a rien fait pour les déloger,Not_mentioned,0,,Negative,-2,125 €,Negative,-2,trois heures de TGV debout
+145,Positive,1,非常非常大的火車站,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,人蠻多的
+146,Positive,2,整潔度高,Positive,2,班次準點,Negative,-1,無法於APP 軟體上進行購票動作,Positive,2,服務親切,Not_mentioned,0,,Not_mentioned,0,
+147,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,Pas de remboursement,Negative,-2,Eurostar = entreprise malhonnête,Negative,-2,sans aucun remboursement de la différence de prix,Not_mentioned,0,
+148,Positive,1,es meistens sauber ist,Negative,-2,JEDES MAL ... gab es eine Verspätung,Negative,-2,wird einem kein Taxi oder Ersatz Bus angeboten,Not_mentioned,0,,Negative,-2,erst recht nicht Frauen die alleine am Bahnhof stehen,Not_mentioned,0,
+149,Not_mentioned,0,,Negative,-2,57 minutos de retraso,Negative,-2,no hay derecho a indemnización,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+150,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,beaucoup trop cher,Positive,1,Le voyage était agréable
+151,Positive,2,Pulitissimo,Positive,2,puntuali,Not_mentioned,0,,Positive,2,salutava con inchino,Not_mentioned,0,,Positive,2,comodi e silenziosi
+152,Positive,1,我們很容易找到車廂,Neutral,0,它偶爾必須放慢速度,Not_mentioned,0,,Not_mentioned,0,,Positive,1,歐洲的公共交通系統是對寵物友好的,Positive,2,座位很舒服。車廂很安靜。
+153,Mixed,0,荷物を置く場所が少ないのが、ちょっと残念,Positive,2,定刻通りに運行してます,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,日本の新幹線同様快適で
+154,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Mixed,0,ドンっていう衝撃音が結構気になる
+155,Not_mentioned,0,,Positive,1,정말 빠름,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,비싼 가격,Negative,-1,상자곽 같은 비좁은 자리
+156,Not_mentioned,0,,Not_mentioned,0,,Mixed,0,"llegando tarde, sin poder completar su servicio",Negative,-1,necesitan más cursillos del conocimiento de su labor,Negative,-2,"por ser discapacitado,   FALTA PERSONAL",Positive,1,un traslado cómodo
+157,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,緊張感溢れる車内でした
+158,Mixed,0,候车室的环境比上海火车站稍好,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,无论何时去都是人满为患
+159,Positive,2,"sistemi informativi all'avanguardia, treni avveniristici",Positive,1,Della puntualità poi non parlerò,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+160,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,aún no entendiendo el idioma es muy amigable el sistema,Positive,1,"no es barato, pero ... Se desquita el costo",Not_mentioned,0,
+161,Positive,1,完成度が高い気がしました,Positive,1,ネットでできて非常に購入が楽でした,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+162,Not_mentioned,0,,Positive,2,Train à l heure,Positive,2,Elle a pu résoudre notre problème,Positive,2,avec gentillesse et bienveillance,Positive,1,Notre prise en charge à la gare de St Pancras par Maud était top,Not_mentioned,0,
+163,Negative,-2,대기실내에 앉을 자리가 아주 많이 부족,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,가격은 좀 비싸지만,Positive,2,비니스석이라 이동시에는 100%만족
+164,Not_mentioned,0,,Positive,2,Il TGV è sempre puntualissimo,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,discretamente comodo
+165,Positive,2,시설도 잘되있고,Positive,1,빠르고,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,가족일경우 가성비 낮음,Not_mentioned,0,
+166,Negative,-1,入口的標示不太明確,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,整個車站滿滿的人群
+167,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Pro Nase 39 Euro mit dem Europa Sparpreis,Positive,2,Deutlich entspannter als fliegen!
+168,Not_mentioned,0,,Negative,-1,Die bereits getätigte Reservierung verfällt,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,schmeißt eine Mutter mit Säugling aus dem reservierten Kleinkindabteil,Not_mentioned,0,
+169,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,dass die Stornierung nicht möglich ist,Negative,-2,verärgert über die Qualität der Mitarbeiter,Negative,-2,Hier wurde überhaupt nicht auf mein Bedürfnis eingegangen,Not_mentioned,0,
+170,Negative,-1,系統忙碌，而且試了很多次皆失敗,Negative,-2,預定的位置已失效,Negative,-2,一直打客服也打不通,Not_mentioned,0,,Negative,-1,只能訂別車的全票，完全沒有任何補償措施,Not_mentioned,0,
+171,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Neutral,0,no one to check tickets past Lyon,Positive,2,only a few Euros more than second class,Positive,2,wide enough and reclined slightly for a comfortable position
+172,Not_mentioned,0,,Negative,-1,Problema sistematico,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,no recomendsble parapersonas Mayores o con problemas,Negative,-2,3/4 horas de pie y embutidos en el tren
+173,Mixed,0,Ils ne reconnaissent que les cartes d'identité chinoise,Not_mentioned,0,,Negative,-1,ça peut prendre du temps avec la foule,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+174,Not_mentioned,0,,Positive,1,当日、駅で買っても全然大丈夫ですよ,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,とっても快適に旅行が出来ます
+175,Not_mentioned,0,,Positive,1,很快很方便,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Neutral,0,不過未必可坐在一起
+176,Negative,-2,igiene mancante,Negative,-2,ci abbiamo messo 9 ore,Not_mentioned,0,,Positive,1,personale tutto sommato non male,Not_mentioned,0,,Negative,-1,aria condizionata a palla
+177,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,réclamer à la sncf un remboursement d'amende,Negative,-2,à cause de son incompétence,Not_mentioned,0,,Not_mentioned,0,
+178,Negative,-2,"Moquette tachée ,siège bloquée , toilettes",Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,ça pue!
+179,Positive,2,los baños estaban en buenas condiciones de limpieza,Positive,2,siempre salieron en horario,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,son cómodos
+180,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,기차표가 조금 부담스럽긴 하지만,Positive,1,쾌적함
+181,Not_mentioned,0,,Neutral,0,Arrivato il mezzo in orario,Negative,-2,mi è stato negato il rimborso del biglietto perso,Negative,-2,l’inadempienza e la negligenza del controllore,Negative,-1,a spendere 139 euro di biglietto,Not_mentioned,0,
+182,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Ideal para viajar con niños,Positive,2,Asientos muy comodos
+183,Positive,2,i vagoni sono pulitissimi,Positive,2,la puntualità che spacca il secondo,Not_mentioned,0,,Positive,2,il servizio è impeccabile,Not_mentioned,0,,Negative,-1,senza prenotazione rischiate di rimanere a terra
+184,Positive,2,現在又多了wifi設備,Positive,1,快速便捷的交通工具,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,車廂安靜，而乾淨
+185,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Mixed,0,"le prix est élevé, il l'ai toujours moins que seul dans une voiture",Positive,2,la climatisation est appréciable
+186,Negative,-2,Schifo schifo schifo,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+187,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,DB doesn't do the only thing it could to improve the situation,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,shout (instead of speaking) even in the quiet compartments
+188,Not_mentioned,0,,Positive,1,it's easy to search and book for your tickets,Not_mentioned,0,,Positive,1,The KTX App is available in english,Not_mentioned,0,,Positive,2,the ride is very smooth and comfortable
+189,Positive,2,Essen war mehr als Top,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+190,Not_mentioned,0,,Positive,2,todo muy bien organizado,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+191,Negative,-2,the café onboard now pathetic,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,A complete rip off,Not_mentioned,0,
+192,Mixed,0,WIFIは田舎になると繋がらないときがある,Not_mentioned,0,,Negative,-1,変更は現地でしかできないとの事。結構不親切ですね。,Not_mentioned,0,,Not_mentioned,0,,Positive,1,ゆったり
+193,Not_mentioned,0,,Negative,-2,La falta de puntualidad es total,Not_mentioned,0,,Negative,-2,Incompetentes,Not_mentioned,0,,Not_mentioned,0,
+194,Positive,1,코레일 어플을 설치해서 어플에서도 구입가능,Positive,2,대부분 정시출발하기에,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+195,Not_mentioned,0,,Negative,-2,Que des retards des correspondances loupes,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+196,Mixed,0,が、何故かホームは暗め,Not_mentioned,0,,Negative,-1,発券場所が混みますので,Not_mentioned,0,,Not_mentioned,0,,Positive,2,静かで広くて
+197,Mixed,0,l'équipement électrique est défaillant une fois sur deux,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,"moins de place, moins de confort. C'est étriqué"
+198,Not_mentioned,0,,Negative,-2,kein einziger der Züge pünktlich kam,Negative,-2,die bezahlen mir nur 80 Euro Taxi,Negative,-2,Total verwirrtes Personal auf allen Ebenen,Not_mentioned,0,,Not_mentioned,0,
+199,Not_mentioned,0,,Positive,2,On time,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Great and cheap,Not_mentioned,0,
+200,Positive,2,hay mucho espacio para dejarlas,Not_mentioned,0,,Positive,1,Venden tickets de metro en el coche comedor,Not_mentioned,0,,Positive,2,el precio fue muy parecido al billete de segunda,Positive,2,Los asientos son cómodos y amplios
+201,Positive,2,Con un buen wifi,Positive,2,"Rápido, seguro y puntual",Not_mentioned,0,,Positive,1,seguro,Not_mentioned,0,,Not_mentioned,0,
+202,Mixed,0,모니터 하나가 계속 덜컹거려서,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,상당히 비싼 듯 하지만,Mixed,0,조용함 ... 조금 귀에 거슬리긴 했음
+203,Not_mentioned,0,,Negative,-2,eine solch defizitäre Struktur,Negative,-2,katastrophale Kommunikationspolitik,Not_mentioned,0,,Negative,-2,ganze 270 Euro im Monat,Not_mentioned,0,
+204,Positive,1,新幹線と比べて遜色はない,Negative,-1,売り切れがかなり多くて,Negative,-1,外国人は専門の窓口に並ばないといけません,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+205,Positive,2,車内表示は丁寧でビックリ,Positive,2,到着時間も正確で,Not_mentioned,0,,Not_mentioned,0,,Positive,1,1等も２等も料金はそんなに変わらない,Positive,1,温かみがあると思います
+206,Negative,-1,"still the old trains, same lay out , same seats",Not_mentioned,0,,Negative,-1,seems to take ages to go through customs,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,lots of people waiting for the train though and no available seats
+207,Positive,2,열차는 진짜 깨끗합니다,Not_mentioned,0,,Negative,-1,역에 입장하는데 시간이 오래 걸립니다,Not_mentioned,0,,Positive,2,가격이 매우 쌉니다,Positive,2,엄청 편안합니다
+208,Not_mentioned,0,,Positive,1,on gagne plus de 30min,Not_mentioned,0,,Positive,2,un service de qualité,Negative,-1,on ne peut pas utiliser le Railpass,Not_mentioned,0,
+209,Negative,-1,容易迷路的台北车站,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+210,Not_mentioned,0,,Negative,-2,45 Minuten Verspätung wegen Stellwerkstörung,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,sündhaft teueren Bahnstrecke,Negative,-2,die Klimaanlage ausgefallen
+211,Negative,-1,Ins W-Lan der Bundesbahn - geht nicht,Mixed,0,Den Zug gibt's nicht,Negative,-2,Durchsage? Fehlanzeige.,Negative,-2,Hben auch keine Kundenorientierung,Not_mentioned,0,,Not_mentioned,0,
+212,Not_mentioned,0,,Negative,-2,"trenes cancelados, con retrasos de horas",Not_mentioned,0,,Not_mentioned,0,,Negative,-1,sin tener la más mínima consideración a los viajeros,Not_mentioned,0,
+213,Not_mentioned,0,,Positive,1,a fairly smooth operation,Negative,-1,seemingly unecessary queues all the time,Not_mentioned,0,,Negative,-2,very very expensive,Not_mentioned,0,
+214,Not_mentioned,0,,Positive,1,Pünktlich ja,Negative,-2,"15 Minuten hat es gedauert, bis man mich bedient hat",Negative,-1,Kein Dankeschön ... Keine Verabschiedung,Not_mentioned,0,,Negative,-2,1.-Klasse-Abteil ohne Heizung
+215,Negative,-2,there was no power for the first hour,Negative,-2,"never arrived, because it had broken down",Negative,-2,a measly 25 %,Negative,-2,"I should be very happy that I was allowed to join ""his train""",Negative,-1,despit the very costly ticket,Negative,-2,we had no seat for the full trip
+216,Positive,2,disfrutamos mucho del vagón restaurante,Positive,2,puntualidad,Not_mentioned,0,,Positive,2,El servicio,Not_mentioned,0,,Positive,2,comodidad del tren fueron muy buenos
+217,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,사실 외국에 비하면 매우 저렴한 편,Not_mentioned,0,
+218,Negative,-2,"wifi pessimo , impossibile lavorare",Negative,-2,treno in ritardo sia all'andata che al ritorno,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,costo 250 euro,Negative,-2,calda con pochissima aria condizionata
+219,Mixed,0,Pas de poubelles comme prévu,Positive,1,A l heure,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,Siège assez étroits
+220,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,PESSIMO SERVIZIO,Negative,-2,3 operatori mi hanno dato tre versioni diverse,Negative,-1,SOLDI PERSI,Not_mentioned,0,
+221,Negative,-1,tutto un po' scarseggiante come qualità standard,Negative,-1,ci arrivo io in 3 ore da Treviso in macchina,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,mi hanno fatto pagare di più,Not_mentioned,0,
+222,Not_mentioned,0,,Positive,1,갈아타는것없이 한번에,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,빠르고 편하고 굿
+223,Positive,1,un petit plateau repas,Negative,-1,avec une heure de retard,Positive,2,"Les communications sur le retard, le timing et les raisons ont été claires et régulières.",Not_mentioned,0,,Not_mentioned,0,,Positive,2,un train confortable (1ère classe)
+224,Positive,2,手機QR code乘車後，又更為方便了,Positive,1,往來台灣南北部變得簡單許多,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+225,Not_mentioned,0,,Negative,-2,mehr als 2 Stunden Verspätung,Negative,-2,Umbuchung ... derbe abgelehnt,Negative,-2,Unfähigkeit gepaart mit auswuchernder Unfreundlichkeit,Negative,-1,für gutes Geld,Negative,-2,Stehplatz im Gang trotz Sitzplatzreservierung
+226,Not_mentioned,0,,Negative,-2,were double booked by Italo,Negative,-2,Italo has refused to reimburse anything,Negative,-1,we were told double booking is impossible,Not_mentioned,0,,Negative,-1,we could not sit together
+227,Negative,-2,Plus de places dans les racks a bagages,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,un dragon arrive et vous menace d'une amende,Negative,-1,60euros d'osteo à prévoir en plus du prix du billet,Negative,-2,d'un inconfort inimaginable
+228,Not_mentioned,0,,Positive,2,à l'heure,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,très bon voyage
+229,Positive,1,cruise the country in luxury,Positive,2,Prompt service,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Heaps of legroom even for tall westerners
+230,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,Costumer service is complete 0,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+231,Not_mentioned,0,,Negative,-2,2!!! Stunden Verspätung,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,OHNE SITZPLATZ  AM BODEN über 4 Stunden
+232,Positive,2,廁所每兩節有一間並且乾淨,Mixed,0,可惜無法直達機場,Not_mentioned,0,,Not_mentioned,0,,Positive,1,提早預訂能拿到優惠的價格,Not_mentioned,0,
+233,Not_mentioned,0,,Negative,-2,Just stop at Ashford International for goodness' sake,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+234,Not_mentioned,0,,Mixed,0,잦은 연착이 있긴 하지만,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,상당히 좁고 불편합니다
+235,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,Mai fidarsi per servizio bici,Negative,-2,90£ extra for round trip only for one bike,Not_mentioned,0,
+236,Not_mentioned,0,,Negative,-2,予約した３便全て運休,Negative,-2,予約日まで返金はしない,Negative,-2,詐欺会社,Not_mentioned,0,,Not_mentioned,0,
+237,Not_mentioned,0,,Positive,1,buenas conexiones con el resto de España,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+238,Not_mentioned,0,,Negative,-2,Usualmente tienen problemas de huelga y queda la gente varada,Negative,-2,no prestan solución alternativa a los usuarios,Negative,-2,nadie habla una sola palabra de inglés,Negative,-1,pasar la noche en Valencia o pagar taxi,Not_mentioned,0,
+239,Not_mentioned,0,,Positive,2,항상 시간에,Not_mentioned,0,,Not_mentioned,0,,Positive,1,가치가 있는 티켓은 80.000,Positive,2,항상 편안했습니다
+240,Not_mentioned,0,,Negative,-2,Il treno viene cancellato una prima volta,Negative,-2,chiedo la restituzione dei soldi nessuno risponde,Negative,-2,personale scostante e assolutamente non informato,Not_mentioned,0,,Not_mentioned,0,
+241,Negative,-1,their buggy app,Negative,-2,Every train is always late,Negative,-2,they ghosted me for months,Negative,-2,this shameful company,Not_mentioned,0,,Not_mentioned,0,
+242,Negative,-1,punti di vendita automatici ... di vecchia concezione,Mixed,0,Sono solo 10-15 il giorno!,Negative,-1,controlli esagerati,Not_mentioned,0,,Negative,-1,costo è mediamente elevato (circa 70euro),Not_mentioned,0,
+243,Positive,1,플랫폼이 단순해서 타기 쉽다,Positive,2,단 20분만에 질주,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,늘 사람이 많고  복잡하다
+244,Not_mentioned,0,,Negative,-1,llevaba un retraso de 15 minutos,Positive,2,el revisor antes de llegar a Tolouse pasó uno a uno,Positive,2,un diez para la compañía,Positive,2,hay ofertas interesantes,Not_mentioned,0,
+245,Positive,2,assez de places pour les valises et trains propres,Positive,2,trains à l’heure et rapides,Not_mentioned,0,,Positive,2,personnel sympathique,Positive,2,prix pas trop chers,Not_mentioned,0,
+246,Negative,-2,為何不在男女生洗手間前貼上正確的男女標示,Not_mentioned,0,,Negative,-1,最後還是得乖乖排隊購票,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+247,Mixed,0,就是厕所有点少,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+248,Positive,1,エキスプレスICカードを持つと,Positive,1,ネットで座席指定はできるし,Positive,1,直前まで変更できるし便利です,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+249,Not_mentioned,0,,Mixed,0,Gab auch öfter mal Verspätungen,Positive,2,immer hilfsbereit und hat auch Rückerstattungen gewährt,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+250,Positive,2,clean,Positive,2,it is on time,Positive,1,convenience of picking up tickets from 7-11,Not_mentioned,0,,Mixed,0,Though pricier than regular rail,Not_mentioned,0,
+251,Not_mentioned,0,,Negative,-2,immer mit Verspätung,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,Teuer,Not_mentioned,0,
+252,Not_mentioned,0,,Positive,2,À l’heure,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Confortable.Tout en douceur!
+253,Not_mentioned,0,,Positive,1,二個小時內到達,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,1,偶而這樣放鬆自己也不錯
+254,Positive,1,自動券売機もみどりの窓口もあり便利です,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,２割引できる ... お得です,Positive,1,違和感なく乗ることができました
+255,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Mixed,0,a loud and officious rail officer,Not_mentioned,0,,Not_mentioned,0,
+256,Negative,-2,"neppure più una salvietta umida, nessuna raccolta rifiuti",Not_mentioned,0,,Negative,-1,nessun carrellino,Not_mentioned,0,,Negative,-2,prezzi assurdi,Not_mentioned,0,
+257,Not_mentioned,0,,Mixed,0,直達車或少停靠點的列車班次比較少,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,對於經常搭乘的優惠也比較少,Not_mentioned,0,
+258,Negative,-2,bagni inutilizzabili,Not_mentioned,0,,Negative,-2,Nessuno che passa per controllare,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,"Persone al telefono, gruppetti che parlano a voce alta"
+259,Not_mentioned,0,,Positive,2,Paris-Strasbourg en 2h30 ça fait gagner un temps fou,Not_mentioned,0,,Negative,-1,l'insécurité ressentie dans les gares parisiennes,Not_mentioned,0,,Positive,1,Le TGV est agréable
+260,Not_mentioned,0,,Negative,-2,einfach nur unzuverlässig rumrollt,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+261,Negative,-2,las bandejas se soltaban solaS cada dos por tres,Negative,-1,el vagón que nos ha tocado no es de literas,Not_mentioned,0,,Negative,-2,un empleado no informe correctamente de lo que estaba vendiendo,Negative,-2,los llantos de los dos niños,Negative,-1,los asientos para que decir
+262,Not_mentioned,0,,Positive,1,Der Zug fuhr flott,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Der gebotene Komfort im Zug war sehr gut
+263,Not_mentioned,0,,Negative,-2,nos cambian de tren a autobús,Negative,-2,SIN EXPLICAR NADA,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+264,Positive,1,高鐵の素食便當も野菜が一杯,Negative,-1,ほぼ満席で無理でした,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+265,Not_mentioned,0,,Positive,2,한 시간이나 빠르다,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+266,Positive,2,備有吸菸室、洗手台、座位都備有插頭,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,舒適度和平穩度都優於台灣高鐵
+267,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,unfähiges Management ... Was für ein Stümperverein,Not_mentioned,0,,Not_mentioned,0,
+268,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,un avvertimento da parte di TGV su questa operazione sarebbe stato opportuno,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+269,Negative,-1,Des places fenêtres sans fenêtre,Positive,1,on a encore un bon réseau,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,les sièges ne sont pas ergonomique et sont très dur
+270,Negative,-1,la página web no funcionaba,Not_mentioned,0,,Negative,-1,una persona sin ganas de trabajar,Negative,-2,tan sosa y condescendiente,Not_mentioned,0,,Not_mentioned,0,
+271,Not_mentioned,0,,Positive,2,一個半到兩小時的時間是過去無法比擬的,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,希望折扣優惠能再多些,Not_mentioned,0,
+272,Negative,-2,Condizione del bagno indescrivibile,Not_mentioned,0,,Mixed,0,ci ha proposto di farci trovare un'ambulanza,Negative,-2,Secondo lui la colpa non era dei gradini alti,Not_mentioned,0,,Not_mentioned,0,
+273,Not_mentioned,0,,Positive,2,고속철도 굉장히 빠릅니다,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,아주 편하게 빨리 갈 수 있었습니다
+274,Positive,1,어플리케이션을 통해 좌석을 예매할 수도,Positive,2,가장 빠르고 효율적인 이동수단,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+275,Not_mentioned,0,,Negative,-2,30 ore (trenta) per tornare da Parigi a Torino,Negative,-2,Nessun tipo di assistenza,Negative,-2,poca educazione da parte del personale,Not_mentioned,0,,Not_mentioned,0,
+276,Positive,2,기차 시설도 좋았고요,Positive,2,거의 정시에 잘 도착했습니다,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+277,Not_mentioned,0,,Negative,-2,Die Züge sind nie pünktlich,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+278,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Mixed,0,指定席、グリーン車も満席になった
+279,Positive,2,so clean and spacious ... high speed wifi,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Good space to sit and watch the world go by
+280,Negative,-2,The cabin and seats are old and badly kept,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+281,Positive,2,so huge and so beautiful,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+282,Not_mentioned,0,,Negative,-2,retard à faire rater les correspondances et perdre plus de 3h00,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+283,Positive,2,乾淨,Positive,2,極少誤點,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,票價高一點,Positive,2,舒適的乘車體驗
+284,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,車両や線路の事故は、知る限り皆無,Not_mentioned,0,,Not_mentioned,0,
+285,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,乗り心地がよく，両車両とも快適な旅でした
+286,Negative,-2,無法連上網路而感到挫敗,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+287,Not_mentioned,0,,Positive,2,"parti à l'heure, arrivé à l'heure à chaque voyage",Not_mentioned,0,,Not_mentioned,0,,Positive,2,un rapport qualité/prix exceptionnel,Not_mentioned,0,
+288,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,"Au lieu de me rembourser la différence, Ouigo a ajouté la somme de 20 euros",Negative,-1,Aucune précision n'était apportée sur le remboursement,Negative,-2,Mon billet m'en avait coûté 95,Not_mentioned,0,
+289,Positive,1,"schon etwas in die Jahre gekommen, aber immer noch sehr gut",Positive,2,sehr viel weniger Verspätungen,Not_mentioned,0,,Not_mentioned,0,,Positive,1,Frühbucherrabatt nutzen,Not_mentioned,0,
+290,Not_mentioned,0,,Negative,-1,' 품절 ' 또는 ' 서 ' 상황,Not_mentioned,0,,Positive,2,직원들은 도움도 많이 준 기차 들 은 영어,Mixed,0,특히 힘든 때 아이들은,Negative,-1,기차를 기다리는 동안 더운
+291,Not_mentioned,0,,Negative,-1,Un exceso de paradas ralentiza el viaje,Not_mentioned,0,,Not_mentioned,0,,Positive,1,El precio es razonable,Positive,1,la experiencia es agradable
+292,Not_mentioned,0,,Not_mentioned,0,,Positive,2,"In matter of a couple of hours, they have found it",Positive,1,With the help of a nice person,Positive,2,it’s worth it,Positive,2,a very practical and comfortable way to travel
+293,Not_mentioned,0,,Negative,-2,kam der Zug routinemäßig zu spät,Not_mentioned,0,,Negative,-2,"schmiss mich raus, während sie mich beleidigte",Negative,-2,lasse wenigstens die ältere Dame da sitzen,Negative,-2,total überfüllt
+294,Not_mentioned,0,,Negative,-2,"Zugausfällen, Verspätungen",Negative,-2,Service kennt man dort auch nicht,Negative,-2,unfreundlichen Mitarbeitern (die  patzig und ignorant sind),Negative,-2,Die Erhöhung der Ticketpreise ist mit nichts zu rechtfertigen,Not_mentioned,0,
+295,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Neutral,0,軌道や架線を走りながら検査する検査車両があります,Not_mentioned,0,,Not_mentioned,0,
+296,Positive,2,ordentlich und sauber,Negative,-1,die Tickets erst sehr spät „freigeschaltet“ werden,Not_mentioned,0,,Not_mentioned,0,,Positive,2,günstige Tickets (pro Person unter  50 Euro),Positive,2,Alles war sehr komfortabel
+297,Negative,-1,Bordeaux n’était indiqué à aucun endroit,Not_mentioned,0,,Negative,-2,ne vous rembourse Jamais!,Negative,-2,il ne savait même pas,Negative,-2,De plus en plus chère,Not_mentioned,0,
+298,Not_mentioned,0,,Negative,-1,MAXスピードが低い事かな,Not_mentioned,0,,Negative,-1,案内無しの突然発車,Not_mentioned,0,,Neutral,0,シートは普通で
+299,Not_mentioned,0,,Positive,2,경주를 당일 왕복 하였는데 매우 좋은 결정이었습니다,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+300,Positive,2,免費充電設備，十分貼心,Positive,2,從釜山到首爾只要兩個半小時,Positive,1,省去現場排隊的時間,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+301,Positive,2,"Bahnfahrkarten nicht nur an Bahnhöfen, sondern auch in praktisch allen Convenience-Stores",Positive,2,die Züge ähnlich pünktlich verkehren wie in Japan,Positive,1,"ein Getränk (Kaffee, Tee, Wasser, Saft) und ein kleiner Snack ... gereicht",Not_mentioned,0,,Positive,2,der Fahrpreis für eine gegebene Strecke immer gleich,Positive,1,Komfort der Inneneinrichtung ein wenig schwächer abschneiden als in Japan
+302,Not_mentioned,0,,Negative,-2,verspätungen auf der gesamten fahrt hin und zurück,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+303,Not_mentioned,0,,Positive,2,高鐵準時的特點真的是非常棒的一點,Not_mentioned,0,,Positive,2,服務人員親切、專業,Not_mentioned,0,,Not_mentioned,0,
+304,Negative,-1,政治的PRのビデオを流すのはいかがなものか,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+305,Mixed,0,la cuestion es de los carteles en chino!!,Not_mentioned,0,,Positive,2,con señas unicamete me indico como llegar a la puerta,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+306,Positive,1,待合スペースも十分にありますし,Not_mentioned,0,,Negative,-1,大混雑でここでもだいぶ時間を取られました,Not_mentioned,0,,Not_mentioned,0,,Positive,1,普通に快適でした
+307,Mixed,0,"Wifi was available, but I couldn't get it to work",Not_mentioned,0,,Not_mentioned,0,,Positive,2,bow when entering and leaving each carriage,Not_mentioned,0,,Positive,2,"""clickety-clack"" free. comfortable"
+308,Positive,1,appréciable et surtout meilleur que les sandwichs de gares,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+309,Not_mentioned,0,,Positive,2,"Speedy, punctual and fun",Not_mentioned,0,,Negative,-1,"work in Chinese only, not in English",Not_mentioned,0,,Positive,1,makes the ride even more comfortable
+310,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,"i controllori, non controllano",Not_mentioned,0,,Not_mentioned,0,,Negative,-2,devono esserci 10gradi
+311,Not_mentioned,0,,Not_mentioned,0,,Positive,2,서비스는 빠르고 친절하고,Mixed,0,약간의 혼란 이지만,Not_mentioned,0,,Not_mentioned,0,
+312,Positive,1,ticket se puede comprar online o en la misma estación,Positive,2,Muy rapido,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,comodo
+313,Positive,2,이곳은 깨끗하고 빠른 이동!,Not_mentioned,0,,Not_mentioned,0,,Positive,1,각 경험은 쉽게,Not_mentioned,0,,Not_mentioned,0,
+314,Positive,1,訂票系統也很好用,Not_mentioned,0,,Not_mentioned,0,,Positive,2,服務也是很好沒話說,Positive,2,針對行動不便的更是貼心照顧,Not_mentioned,0,
+315,Not_mentioned,0,,Negative,-2,delayed by over an hour,Negative,-2,absolutely no official information provided,Negative,-2,exclusively in German,Not_mentioned,0,,Not_mentioned,0,
+316,Not_mentioned,0,,Not_mentioned,0,,Positive,2,碰到奧客 ... 也能處理得很圓滿,Positive,2,服務人員還是能維持ㄧ定水準,Not_mentioned,0,,Negative,-1,較過去人多，常滿座
+317,Positive,2,wifi gratis todo el trayecto,Positive,1,En 5 horas en Paris,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Los asientos muy grandes y confortables
+318,Positive,1,ソフトドリンク ... ＋お菓子付き,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,座席も足元もゆったりです
+319,Negative,-1,ガラスが汚れていたり,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,乗り心地はいいとは言えませんでした
+320,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,結構混んでました
+321,Not_mentioned,0,,Not_mentioned,0,,Positive,2,직접 위험하게 기차 밑으로 내려 가셔서 제 반지를 주어주셨습니다,Positive,2,너무 친절하게 안내 도와주셨고,Positive,2,승무원님 께서 직접 ... 제 반지를 주어주셨습니다,Not_mentioned,0,
+322,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,想像を超える人出でした
+323,Negative,-2,carriage numbers all wrong adding confusion,Mixed,0,Train finally arrives - on time but,Negative,-2,a very slow passport control,Negative,-2,health and safety non existent,Negative,-2,very little help with families with young children,Negative,-2,a very cold platform
+324,Not_mentioned,0,,Negative,-1,muchas paradas,Negative,-2,personal desaparecido para hacer consultas,Negative,-2,mal talante x parte de algún personal,Not_mentioned,0,,Not_mentioned,0,
+325,Mixed,0,Automatic ticket kiosk of Renfe wasn't working,Not_mentioned,0,,Negative,-2,three different lines (3 times) for 45 minutes,Negative,-2,they hate English speaking travellers,Negative,-1,you have to pay for pee,Positive,2,"Very comfortable train, smooth journey"
+326,Negative,-2,Infâme salade,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,"Quant au prix , indécent",Not_mentioned,0,
+327,Negative,-1,可能会等10分钟才能赶上,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+328,Positive,1,クッキーとコーヒーの無料サービスがありました,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+329,Positive,2,the signage is clear,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+330,Negative,-2,Il treno era sudicio,Not_mentioned,0,,Negative,-2,non mi hanno consentito il cambio di biglietto,Not_mentioned,0,,Negative,-2,per 100€ a testa c'è molto di meglio,Not_mentioned,0,
+331,Neutral,0,日本の新幹線と変わらない感じです,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+332,Positive,2,环境还十分的干净,Positive,1,不论想如何转乘，都十分方便,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+333,Negative,-2,les toilettes débordais d'excréments,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,les prix des billets n'étaient pas si attractifs,Negative,-2,je ne vous parle des odeurs
+334,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,어째 좀 불안해요,Not_mentioned,0,,Mixed,0,좌우로 많이 흔들리는 것은
+335,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+336,Negative,-2,台中のホームのサインボードは不親切極まりない,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+337,Mixed,0,does not have luggage racks for those with larger luggage,Positive,1,fast and convenient,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,"It was spacious, comfortable"
+338,Not_mentioned,0,,Mixed,0,주말에는 기차 예매가 너무 힘들다는게 단점,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,가격이 저렴하지는 않지만,Positive,2,기차 내부도 조용하기 때문에
+339,Not_mentioned,0,,Positive,2,The train leaves at the exact time,Negative,-1,The queue goes very slow on immigration,Not_mentioned,0,,Not_mentioned,0,,Positive,2,Travel very fast and comfortable
+340,Positive,2,Hongqiao itself is very easy to find your way around,Not_mentioned,0,,Negative,-1,quite often long queues,Mixed,0,they do have English speaking on one or two lines,Not_mentioned,0,,Negative,-2,air conditioning is awful
+341,Not_mentioned,0,,Negative,-2,Retard,Negative,-2,absences de communication,Negative,-1,"Les controleurs, étaient pas bien loquaces",Not_mentioned,0,,Positive,1,"La premiere classe, est quand meme confortable"
+342,Not_mentioned,0,,Positive,1,이동 시간 얼마 안 걸리구,Not_mentioned,0,,Not_mentioned,0,,Positive,1,엄청 비싼 것도 아니고,Positive,2,"소음 거의 없었구, 쾌적하고"
+343,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Neutral,0,値段を比較するといいと思います,Not_mentioned,0,
+344,Not_mentioned,0,,Negative,-2,mon aller retour annulé,Negative,-2,jamais personne pour nous expliquer,Negative,-1,etre rembourser intégralement ... un avoir de 45 euros,Not_mentioned,0,,Not_mentioned,0,
+345,Not_mentioned,0,,Negative,-2,plus d'une heure de retard,Negative,-2,Sans remboursement du premier billet. Pas d'excuse,Negative,-2,n'en n'assume même pas la responsabilité,Negative,-2,un nouveau billet (plus cher),Not_mentioned,0,
+346,Positive,2,무료 와이파이가 있는,Positive,1,온라인에서 티켓을 구입하고,Not_mentioned,0,,Not_mentioned,0,,Positive,1,"가격은 비쌌지만, 그만큼의 가치가 있지만",Positive,2,이 빠르고 편안합니다
+347,Not_mentioned,0,,Negative,-2,Von 100 Fahrten bei mir sind 5 pünktlich gewesen,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,Preise werde immer teurer,Negative,-1,der Komfort sowie Zuverlässigkeit immer niedriger
+348,Positive,1,高鐵站又多有租車公司駐點配合,Positive,2,南北兩地交通可以在2個多小時搞定,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+349,Mixed,0,es pequeño el espacio común ... para el equipaje más grande,Positive,2,la frecuencia de los servicios y la puntualidad,Not_mentioned,0,,Positive,2,anunciada por los parlantes en japonés y en inglés,Positive,1,El JRP no solo ahorra tiempo y dinero,Positive,2,Los asientos son muy cómodos
+350,Negative,-2,Plus de papier dans les toilettes,Negative,-2,Plus de 1h30 de retard,Negative,-2,le parcours du combattant pour avoir une compensation,Not_mentioned,0,,Negative,-2,des prix excessifs,Negative,-2,"bloqué dans une allée, faute à un train roulant bien trop rempli"
+351,Negative,-2,Food car had nothing but chips,Negative,-2,stopped and sat for almost 2 hours,Negative,-2,waited in line for over an hour,Not_mentioned,0,,Negative,-2,More expensive than flying,Not_mentioned,0,
+352,Not_mentioned,0,,Negative,-1,habiéndome cancelado los de ida por motivo de la huelga,Negative,-2,intentando contactar con ellos y ES IMPOSIBLE,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+353,Negative,-2,"la carrozza é sporca, i sedili pure",Negative,-2,"spesso, spessissimo é così: rallentamenti",Not_mentioned,0,,Not_mentioned,0,,Negative,-2,il cui biglietto costa caro anche in economy,Negative,-2,un forte cattivo odore di gabinetto
+354,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,no tienen sección de objetos perdidos,Negative,-2,cero implicación y responsabilidad con el cliente,Not_mentioned,0,,Not_mentioned,0,
+355,Positive,2,abbiamo notato la pulizia come tutto in giappone,Positive,2,Sulla puntualità ... sono troppo avanti!!!,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,sembri pressoché fermo!
+356,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,ITALO refused to refund us,Negative,-2,their English speaking and listening really sucks!,Not_mentioned,0,,Not_mentioned,0,
+357,Positive,2,alles sehr gut ausgeschildert ist,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+358,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,"le responde CUANDO LLEGUE, y acto seguido se va",Negative,-1,un señor mayor le pregunta al revisor,Not_mentioned,0,
+359,Positive,1,有很多貴賓休息廳,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+360,Not_mentioned,0,,Negative,-1,매진이 잘 되요,Negative,-1,실물 티켓으로 교환하는 시간을 넉넉히 잡고,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+361,Positive,2,Alles ist sauber,Positive,2,einfach und komplikationslos,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,sehr bequem und gut klimatisiert
+362,Not_mentioned,0,,Positive,1,大約45-60分鐘就可由機場到達市區,Not_mentioned,0,,Not_mentioned,0,,Positive,1,價錢不貴,Not_mentioned,0,
+363,Positive,2,無料のバターワッフルが美味しい!!,Not_mentioned,0,,Positive,1,水・お菓子・アイマスク・紙おしぼり等のサービス,Not_mentioned,0,,Not_mentioned,0,,Positive,2,日本のグリーン車以上の乗り心地で、快適です
+364,Not_mentioned,0,,Negative,-2,En elgunos tramoa a 48 jm /h,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+365,Mixed,0,absolutely no wifi on board,Negative,-1,the train left late on two occasions,Positive,1,there were notifications about the delay,Mixed,0,The conductors too could not speak English,Not_mentioned,0,,Positive,1,a smooth and easy one
+366,Not_mentioned,0,,Negative,-2,toujours des difficultés à respecter ses horaires,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,est confortable
+367,Positive,1,무료 생수도 제공,Positive,2,시간을 엄격히 실행,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,매우 부드러운
+368,Not_mentioned,0,,Positive,2,en este tren solo haces 3 hrs,Not_mentioned,0,,Not_mentioned,0,,Positive,2,lo que saldría solo 1 viaje lo pagas por los 7 días,Not_mentioned,0,
+369,Negative,-2,kaum Plätze für größere Koffer,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,die Waggons wirklich klein ... enge Gänge
+370,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,la mayoría bastante bordes,Not_mentioned,0,,Not_mentioned,0,
+371,Mixed,0,Wi-Fiが無料で飛んでる列車とそうでないのとあります,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+372,Not_mentioned,0,,Negative,-1,15 Minuten Verspätung,Negative,-2,Gleis wechsel ohne richtige ankündigung,Not_mentioned,0,,Negative,-2,250€ für 2 neue Tickets ausgeben,Not_mentioned,0,
+373,Not_mentioned,0,,Negative,-2,damit er Mal sieht wie toll das klappt,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+374,Positive,2,台灣高鐵是乾淨,Positive,2,安全快速到達目地,Not_mentioned,0,,Positive,2,管控嚴謹,Not_mentioned,0,,Positive,1,我非常享受整個旅行過程
+375,Not_mentioned,0,,Mixed,0,多加了一些小站拖延一些時間,Not_mentioned,0,,Not_mentioned,0,,Positive,2,早鳥票或學生專案可以省下不少,Not_mentioned,0,
+376,Positive,2,Der Bahnhof ist sehr sauber und sehr sicher,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,im Bahnhof mit Mandarin beschriftet ist,Not_mentioned,0,,Not_mentioned,0,
+377,Not_mentioned,0,,Positive,1,The trip takes just under 2 hours,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,"very smooth, you hardly know hat you are moving"
+378,Negative,-2,la web tan nefasta que tienen,Not_mentioned,0,,Negative,-2,atención al cliente son servicios nefastos,Not_mentioned,0,,Negative,-1,he perdido el dinero,Not_mentioned,0,
+379,Positive,2,this train was clean and very simplistic,Positive,1,was smooth and we had no issues,Not_mentioned,0,,Positive,1,The conductors of the train will be outside to assist you,Neutral,0,the rates can fluctuate,Positive,2,seats can be reclined back and the feet can extend for more comfort
+380,Negative,-2,muy pobre en servicios,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+381,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,高鐵行駛非常穩
+382,Positive,2,moderno e molto pulito,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,"rapido, silenzioso e comodissimo"
+383,Not_mentioned,0,,Negative,-2,Eurostar cancelled the train a few days in advance,Negative,-2,Their customer service is utter trash,Not_mentioned,0,,Negative,-2,they don't care about the people they are serving,Not_mentioned,0,
+384,Positive,1,산천은 충전포트가 꽤 많다,Positive,1,상당히 빠르게 타고 내릴 수 있는,Not_mentioned,0,,Not_mentioned,0,,Positive,2,일본의 신칸센보다 싸고,Positive,1,시트의 편안함과 열차 정숙성은
+385,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,noi non possiamo comunicare con il personale di bordo,Negative,-1,Assurdo,Not_mentioned,0,,Not_mentioned,0,
+386,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,komplett machtlos und muss sich alles gefallen lassen,Negative,-2,Schrecklichstes Unternehmen der Welt,Not_mentioned,0,,Not_mentioned,0,
+387,Negative,-1,la suppression des trains à étage,Negative,-2,Une surréservation en 1ère,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+388,Positive,2,clean,Mixed,0,I showed them my confirmation and it wasn't there,Positive,2,The agent rebooked and even got my same sitting assignment,Not_mentioned,0,,Positive,2,affordable,Positive,2,comfortable seat for 1 or 2
+389,Not_mentioned,0,,Positive,1,대표적인 이동수단,Not_mentioned,0,,Not_mentioned,0,,Positive,1,가족 여행 등 다양한 여행목적에 맞아떨어지는것,Not_mentioned,0,
+390,Not_mentioned,0,,Positive,1,兩個多小時就可以到達目的地,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,舒適地坐在住置上
+391,Not_mentioned,0,,Negative,-2,il treno si è fermato dopo 4 ore di viaggio in mezzo ad una campagna,Negative,-1,per motivazioni a noi anomale,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,l’aria condizionata è stata spenta
+392,Not_mentioned,0,,Positive,1,a totally positive experience,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Positive,2,a TOTALLY smooth and FAST ride
+393,Not_mentioned,0,,Negative,-2,ständig Verspätung,Negative,-2,nicht mal auf Anschluss Busse gewartet,Not_mentioned,0,,Negative,-2,Viel zu teuer für das was sie liefern,Negative,-2,Menschen werden in Massen in die Busse gesteckt
+394,Not_mentioned,0,,Negative,-1,最近幾次發生的罷工,Not_mentioned,0,,Negative,-2,一遇到狀況就是互相推卸責任,Not_mentioned,0,,Not_mentioned,0,
+395,Not_mentioned,0,,Positive,2,短時間で目的地まで着いたので驚きました,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,
+396,Negative,-2,il est salé et pas propre,Negative,-1,il faut faire paris Biarritz en 3 heure,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-2,il trop de bruit
+397,Negative,-2,I bagni funzionavano solo in una carrozza,Not_mentioned,0,,Not_mentioned,0,,Not_mentioned,0,,Negative,-1,Per il costo del biglietto è una cosa inaccettabile,Not_mentioned,0,
+398,Positive,2,plenty of room to keep my luggage,Not_mentioned,0,,Positive,2,Excellent service provided by the ticket help desks,Not_mentioned,0,,Not_mentioned,0,,Positive,2,"comfortable seats, plenty of legroom"
+399,Mixed,0,Lediglich das WLAN an Bord ist ausbaufähig,Not_mentioned,0,,Positive,1,die (kostenlose) Bewirtung super,Positive,2,Professioneller Service,Positive,2,als Familie war Business Class am günstigsten,Positive,2,Fahrkomfort in der Business Class perfekt
+400,Not_mentioned,0,,Negative,-2,ein Zug wegen einer Baustelle ausfällt,Negative,-2,erst 10 Minuten vor Abfahrt Bescheid sagen,Negative,-2,inkompetenter Witzverein,Negative,-1,mit Auto schneller und günstiger ans Ziel kommt,Not_mentioned,0,
