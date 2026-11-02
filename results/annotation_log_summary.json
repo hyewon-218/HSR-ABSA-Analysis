@@ -1,0 +1,37 @@
+[
+ {
+  "run": "Full corpus (primary)",
+  "model": "claude-sonnet-4-6",
+  "date": "2026-10-29",
+  "batches": 330,
+  "reviews": 9808
+ },
+ {
+  "run": "Full corpus (primary)",
+  "model": "claude-sonnet-4-6",
+  "date": "2026-10-30",
+  "batches": 226,
+  "reviews": 4956
+ },
+ {
+  "run": "Test\u2013retest (100 reviews)",
+  "model": "claude-sonnet-4-6",
+  "date": "2026-10-30",
+  "batches": 10,
+  "reviews": 100
+ },
+ {
+  "run": "Validation sample (Gemini 3 Flash)",
+  "model": "gemini-3-flash-preview",
+  "date": "2026-10-30",
+  "batches": 15,
+  "reviews": 355
+ },
+ {
+  "run": "Validation sample (Gemini 3 Flash)",
+  "model": "gemini-3-flash-preview",
+  "date": "2026-10-31",
+  "batches": 3,
+  "reviews": 45
+ }
+]

@@ -1,0 +1,23 @@
+{
+ "k_TM": "0.92",
+ "k_TM_rng": "0.90–0.94",
+ "q_TM": "0.98",
+ "n_adj": "96",
+ "F1_claude": "0.86",
+ "P_claude": "0.89",
+ "R_claude": "0.83",
+ "k_claude": "0.77",
+ "MAE_claude": "0.23",
+ "q_claude": "0.95",
+ "pol_claude": "93.4",
+ "F1_lang_rng": "0.77 to 0.92",
+ "q_lang_rng": "0.88 to 0.97",
+ "msd_dom": "−0.02",
+ "msd_for": "−0.02",
+ "F1_gemini": "0.89",
+ "k_CG": "0.75",
+ "q_CG": "0.94",
+ "n_gemini": "400",
+ "lang_bias_text": "similar agreement for domestic-language and non-domestic-language reviews (F1 0.88 and 0.84; mean signed differences −0.02 and −0.02)",
+ "msd_equiv": "a negligible systematic error, far below the underestimation of about half of the domestic-language scores required to reverse the direction"
+}
