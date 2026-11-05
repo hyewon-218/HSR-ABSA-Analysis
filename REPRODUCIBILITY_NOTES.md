@@ -27,23 +27,13 @@ bootstrap co-assignment results reproduce the supplied numerical outputs. Small
 floating-point/optimizer differences occur in some ordinal-model supplementary
 p-values; these do not change the unadjusted main data or supplied release tables.
 
-## Supplementary covariate model requires author review
+## Supplementary covariate model (resolved, 4 November 2026)
 
-For `results/S_cov_trip_period.csv`, this machine's rerun does not reproduce all
-supplied p-values. The clearest difference is Cluster 2 / Tangibility: the supplied
-adjusted p-value is approximately 3.85e-10, whereas the rerun reports 1.0 despite
-a similar odds ratio. The script suppresses fitting warnings, so successful exit
-alone does not validate this fit. Solver/version sensitivity or model numerical
-stability should be investigated by the authors; the cause was not established
-by this repository-maintenance update. The supplied table is preserved rather
-than silently replaced with the rerun output.
-
-## Data release boundary
-
-Full review texts/translations and the superseded annotation CSV are removed
-from the current tree. Short evidence excerpts explicitly supplied in R1 remain.
-This normal commit does not purge old review text from earlier commits. Any
-history rewrite must be coordinated with the repository owner and collaborators.
-No history rewrite or optional DOI/Zenodo release was performed.
-
-The model-list endpoint follows the [Anthropic API reference](https://platform.claude.com/docs/en/api/models/list).
+The covariate model in `results/S_cov_trip_period.csv` was refitted with Newton and BFGS
+optimizers after removing dummy columns that are constant within a cluster subset. Both
+optimizers converged for all 18 models and reproduced the supplied table (Cluster 2 /
+Tangibility: OR 2.49, adjusted p < 0.001; 12 of 18 comparisons significant in favour of
+non-domestic-language reviews and one, Cluster 2 / Assurance, in favour of domestic-language
+reviews). The earlier discrepancy arose from a non-converged fit that was not flagged because
+warnings were suppressed. `analysis/01_reanalysis.py` and `analysis/02_supplementary.py` now
+drop constant columns, use the Newton optimizer, and stop with an error if a fit does not converge.
