@@ -118,7 +118,11 @@ def cl_model(sub, a, extra=None):
     y = sub[a + '_s'].astype(int); Xd = pd.get_dummies(sub.train_name, drop_first=True).astype(float)
     if extra is not None: Xd = pd.concat([Xd, extra.loc[sub.index]], axis=1)
     Xd['foreign'] = (~sub.dom).astype(float)
-    r = OrderedModel(y.values, Xd.values, distr='logit').fit(method='bfgs', disp=False, maxiter=3000)
+    Xd = Xd.loc[:, Xd.std() > 0]  # drop dummies that are constant within the subset (singular design otherwise)
+    r = OrderedModel(y.values, Xd.values, distr='logit').fit(method='newton', disp=False, maxiter=5000)
+    if not r.mle_retvals.get('converged', False):
+        r = OrderedModel(y.values, Xd.values, distr='logit').fit(method='bfgs', disp=False, maxiter=5000)
+    assert r.mle_retvals.get('converged', False), 'cumulative logit model did not converge'
     j = list(Xd.columns).index('foreign'); return r.params[j], r.bse[j], r.pvalues[j]
 for c in [1, 2, 3]:
     for a in A:

@@ -45,8 +45,9 @@ def nsig(Mx, Xx, groups=GR, dom=isdom):
     m = len(r); return sum(1 for z, p in r if p * m < 0.05 and z > 0), sum(1 for z, p in r if p * m < 0.05 and z < 0)
 def cl(systems, j, dom=isdom):
     s = pd.DataFrame({'y': X[:, j], 'm': M[:, j], 't': sysv, 'f': ~dom}); s = s[s.m & s.t.isin(systems)]
-    Xd = pd.get_dummies(s.t, drop_first=True).astype(float); Xd['foreign'] = s.f.astype(float)
-    r = OrderedModel(s.y.astype(int).values, Xd.values, distr='logit').fit(method='bfgs', disp=False, maxiter=3000)
+    Xd = pd.get_dummies(s.t, drop_first=True).astype(float); Xd['foreign'] = s.f.astype(float); Xd = Xd.loc[:, Xd.std() > 0]
+    r = OrderedModel(s.y.astype(int).values, Xd.values, distr='logit').fit(method='newton', disp=False, maxiter=5000)
+    assert r.mle_retvals.get('converged', False), 'cumulative logit model did not converge'
     k = list(Xd.columns).index('foreign'); return np.exp(r.params[k]), r.pvalues[k]
 # 1. Chinese script sensitivity (script of the original Chinese text)
 # script of the original Chinese text (simp/trad), precomputed with OpenCC because review texts are not redistributed
