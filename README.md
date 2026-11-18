@@ -19,7 +19,7 @@ Review texts collected from TripAdvisor (10–29 December 2025) are **not redist
 
 | Path | Content |
 |---|---|
-| `data/claude_sonnet46_annotations.csv` | Label, score (−2 to +2), short verbatim evidence excerpt, and confidence for six attributes, 14,764 reviews; `non_domestic_language` is empty for Eurostar |
+| `data/claude_sonnet46_annotations.csv` | Label, score (−2 to +2), and confidence for six attributes (verbatim evidence excerpts removed; see below), 14,764 reviews; `non_domestic_language` is empty for Eurostar |
 | `data/language_classification.csv` | Detected review language (`langdetect`) and language group |
 | `data/review_metadata.csv` | Star rating, date of writing, month of visit, and trip type shown on the review page |
 | `data/chinese_script.csv` | Script (simplified/traditional) of the original Chinese reviews, for the sensitivity analysis |
@@ -34,13 +34,6 @@ Review texts collected from TripAdvisor (10–29 December 2025) are **not redist
 `validation/validation_sample_ids.csv` lists 400 reviews (50 in each of eight languages). The reference annotations in `validation/reference_annotator_*.csv` were produced by Claude Fable 5.1 (`claude-fable-5-1`) under two expert roles (transport studies; services management), blind to the primary annotation and to each other; disagreements were adjudicated by a third instance (`validation/adjudication.json`). These are language-model annotations, not human annotations. Blank sheets for human annotation of the same reviews are available from the corresponding author because they contain the review texts.
 
 ## Reproducing the analyses
-
-Verification notes and one supplementary-analysis discrepancy are recorded in
-[`REPRODUCIBILITY_NOTES.md`](REPRODUCIBILITY_NOTES.md). Supplied result files are
-retained; computational verification does not independently validate the reviews
-or establish annotation accuracy. On Windows, run with Python UTF-8 mode enabled
-(`python -X utf8 ...` or `PYTHONUTF8=1`).
-
 
 ```bash
 pip install -r requirements.txt
@@ -57,7 +50,7 @@ python validation/eval_validation.py                                            
 | `02_supplementary.py` | Tables S8 (error simulation), S10 (k = 2, 4), S11 (Chinese script) |
 | `03_keywords.py` | Section 3.3.2; Table 7, Table S5, Figure 5–6 input |
 | `04_figures.py` | Figures 1–6, S1, S2 |
-| `05_empathy_price_terms.py` | Section 3.1 (share of empathy excerpts with a price-related term) |
+| `05_empathy_price_terms.py` | Section 3.1 (share of empathy excerpts with a price-related term); requires the evidence excerpts, which are not public, so the output is provided in `results/` |
 | `validation/eval_validation.py` | Section 3.1; Tables S7, S12 |
 
 Re-running the annotation (`annotation/annotate_claude_full.py`) requires the review texts and an API key; even with a fixed model version and temperature 0, a repeated run reproduced aspect detection with κ = 0.81.
@@ -66,23 +59,19 @@ Re-running the annotation (`annotation/annotate_claude_full.py`) requires the re
 
 Creative Commons Attribution 4.0 International (CC BY 4.0); see `LICENSE`.
 
-## Repository maintenance (2 November 2026)
+## Version note (revision R2)
 
-This revision replaces the superseded Gemini-era dataset and analysis scripts.
-The supplied R1 data, validation files, and figures are retained. The local
-handoff's Gemini comparison files are included; no new API annotation was run.
+Added for the second revision:
 
-Minor implementation corrections: LICENSE uses Sanghoo Yoon; the language table's
-316 Chinese-language THSR rows are marked domestic, matching the primary
-annotations (Eurostar remains excluded from language-group comparisons); figure
-exports use results/figures. The Claude annotation CLI defaults to the documented
-claude-sonnet-4-6, reads the bundled prompt by path, and lists models using only
-the Anthropic endpoint. This does not change any stored annotation or analysis.
+- `analysis/06_quality_screen.py` — data-quality screening (language re-detection with langdetect, p ≥ 0.95; platform residue; duplicate texts). Requires the original review texts, which are not redistributed because of the platform's terms of use; the resulting flags are provided.
+- `results/R2_quality/quality_flags.csv` — per-review flags (recorded and detected language, detection probability, language mismatch, platform residue, duplicate).
+- `results/R2_quality/excluded_review_ids.csv` — the 11 flagged reviews.
+- `results/R2_quality/filtered_*` — main results re-computed without the flagged reviews (`python analysis/01_reanalysis.py <annotations without flagged reviews> <outdir>`); Table S13.
+- `analysis/07_star_attribute_analysis.py` — relation between attribute-level sentiment and the star rating (discordance, cumulative logit attribute weights with system fixed effects, language-group comparison, Shapley decomposition of R²); Section 3.4 and Table 8. Run from the repository root: `python analysis/07_star_attribute_analysis.py`.
+- `results/R2_star/star_attr.json` — output of the star-rating analysis.
 
-Full review texts/translations are removed from the current revision. Short
-annotation evidence excerpts provided in the R1 package remain. Removing a file
-in this commit does not purge it from earlier Git history. History cleanup, if
-required, must be coordinated separately; this update does not rewrite history.
+No human ground truth was constructed; the validation files in `validation/` are model-based reference annotations (see the manuscript, Sections 2.2 and 4.5).
 
-Keyword CSV parsing preserves literal words such as `null` instead of treating
-them as missing values. Equal-score keyword ties are sorted deterministically.
+## Removal of verbatim evidence excerpts (November 2026)
+
+At the request of the journal regarding the use of TripAdvisor content, the verbatim evidence excerpts (`*_evidence` columns, the `te`/`me` columns of `validation/annotator_pairs.csv` and `validation/reference.csv`, and the corresponding fields in `validation/adjudication.json`) were removed from all public files. Labels, scores, confidence values, metadata, aggregated word counts, and code are unchanged. The excerpts and review texts are available to editors and reviewers for verification on request to the corresponding author. Scripts that read the excerpts (e.g., `analysis/05_empathy_price_terms.py`) cannot be re-run from the public files; their outputs remain in `results/`.

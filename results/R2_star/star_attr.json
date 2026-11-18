@@ -1,0 +1,110 @@
+{
+ "n": 14763,
+ "both_pos_and_neg_attr": 14.4,
+ "high_star_with_negative_attr": 24.1,
+ "low_star_with_positive_attr": 5.6,
+ "n_high": 7817,
+ "n_low": 5680,
+ "rho_attr_star": {
+  "Tangibility": 0.77,
+  "Reliability": 0.86,
+  "Responsiveness": 0.78,
+  "Assurance": 0.82,
+  "Empathy": 0.78,
+  "Comfort": 0.76
+ },
+ "beta_all": {
+  "Tangibility": [
+   0.459,
+   0.021
+  ],
+  "Reliability": [
+   0.694,
+   0.02
+  ],
+  "Responsiveness": [
+   0.679,
+   0.028
+  ],
+  "Assurance": [
+   0.626,
+   0.028
+  ],
+  "Empathy": [
+   0.597,
+   0.026
+  ],
+  "Comfort": [
+   0.673,
+   0.02
+  ]
+ },
+ "weights_by_group": [
+  {
+   "attr": "Tangibility",
+   "beta_dom": 0.453,
+   "se_dom": 0.047,
+   "beta_nondom": 0.506,
+   "se_nondom": 0.028,
+   "z_diff": 0.98,
+   "p_bonf": 1
+  },
+  {
+   "attr": "Reliability",
+   "beta_dom": 0.868,
+   "se_dom": 0.042,
+   "beta_nondom": 0.664,
+   "se_nondom": 0.028,
+   "z_diff": -4.06,
+   "p_bonf": 0.0003
+  },
+  {
+   "attr": "Responsiveness",
+   "beta_dom": 0.784,
+   "se_dom": 0.066,
+   "beta_nondom": 0.598,
+   "se_nondom": 0.039,
+   "z_diff": -2.43,
+   "p_bonf": 0.0912
+  },
+  {
+   "attr": "Assurance",
+   "beta_dom": 0.813,
+   "se_dom": 0.06,
+   "beta_nondom": 0.583,
+   "se_nondom": 0.038,
+   "z_diff": -3.22,
+   "p_bonf": 0.0077
+  },
+  {
+   "attr": "Empathy",
+   "beta_dom": 0.717,
+   "se_dom": 0.058,
+   "beta_nondom": 0.51,
+   "se_nondom": 0.035,
+   "z_diff": -3.04,
+   "p_bonf": 0.014
+  },
+  {
+   "attr": "Comfort",
+   "beta_dom": 0.728,
+   "se_dom": 0.042,
+   "beta_nondom": 0.641,
+   "se_nondom": 0.027,
+   "z_diff": -1.72,
+   "p_bonf": 0.5075
+  }
+ ],
+ "n_dom": 4200,
+ "n_nondom": 8509,
+ "R2_FE_only": 0.446,
+ "R2_full": 0.775,
+ "shapley_share_pct": {
+  "Tangibility": 12.3,
+  "Reliability": 20.5,
+  "Responsiveness": 18.4,
+  "Assurance": 12.5,
+  "Empathy": 12.7,
+  "Comfort": 23.7
+ }
+}
